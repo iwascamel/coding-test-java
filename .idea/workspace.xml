@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammersBinarySearch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSortPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorhythmTest/BinarySearchRecursively.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/QueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,17 +44,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+        <entry file="file://$PROJECT_DIR$/src/SelectionSortPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="456">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -99,13 +134,18 @@
         <option value="$PROJECT_DIR$/src/QueueExample.java" />
         <option value="$PROJECT_DIR$/src/ArrayListPractice.java" />
         <option value="$PROJECT_DIR$/src/LinkedListPractice.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectionSortPractice.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/InsertionSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-17" />
-    <option name="width" value="2898" />
-    <option name="height" value="1547" />
+    <option name="x" value="277" />
+    <option name="y" value="43" />
+    <option name="width" value="1530" />
+    <option name="height" value="795" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -115,8 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +171,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,16 +199,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListPractice">
-    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListPractice" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="AlgorithmPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchIteratively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchIteratively" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="AlgorithmPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,15 +221,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersBinarySearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammersBinarySearch2" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="AlgorithmPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueExample" />
+    <configuration name="SelectionSortPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSortPractice" />
       <module name="AlgorithmPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSortPractice" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.LinkedListPractice" />
-        <item itemvalue="Application.ArrayListPractice" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.ProgrammersBinarySearch2" />
-        <item itemvalue="Application.BinarySearchIteratively" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +258,8 @@
       <workItem from="1583397501863" duration="2572000" />
       <workItem from="1583422154124" duration="1044000" />
       <workItem from="1583750422988" duration="803000" />
-      <workItem from="1583771960092" duration="2308000" />
+      <workItem from="1583771960092" duration="3388000" />
+      <workItem from="1583816970515" duration="8126000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -227,17 +268,24 @@
       <option name="project" value="LOCAL" />
       <updated>1583422325908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20.03.10 CollectionFrameWork Study">
+      <created>1583775226404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583775226404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6727000" />
+    <option name="totallyTimeSpent" value="15933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26963562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,7 +294,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20462634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22241993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -273,7 +321,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20.03.06 BinarySeach Study" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.06 BinarySeach Study" />
+    <MESSAGE value="20.03.10 CollectionFrameWork Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.10 CollectionFrameWork Study" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/BinarySearchRecursively.java">
@@ -297,10 +346,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/QueueExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -309,15 +365,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+    <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="152">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectionSortPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
