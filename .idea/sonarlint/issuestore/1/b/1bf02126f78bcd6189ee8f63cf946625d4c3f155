@@ -1,0 +1,9 @@
+
+M
+java:S1854	"7Remove this useless assignment to local variable "idx".(Å÷‡ã
+S
+java:S1197"8Move the array designator from the variable to the type.(ïƒÃíþÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+>
+java:S1481	"(Remove this unused "idx" local variable.(Å÷‡ã

@@ -1,0 +1,13 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‰ô¨¨È.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¬ÿÇİ8ÑÑ¢©È.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œë™øÿÿÿÿÿ
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(ì»òáøÿÿÿÿ8ÀûÄ©È.
+P
+java:S1481".Remove this unused "testArray" local variable.(˜¾Çûûÿÿÿÿ8– ÃªÈ.
+_
+java:S1854"=Remove this useless assignment to local variable "testArray".(˜¾Çûûÿÿÿÿ8– ÃªÈ.
+]	java:S125"<This block of commented-out lines of code should be removed.(’§¯äıÿÿÿÿ8öÍ‘ªÈ.

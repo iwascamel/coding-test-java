@@ -1,0 +1,17 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(·ÇÇùÿÿÿÿ
+b
+java:S1871*"LThis branch's code block is the same as the block for the branch on line 41.(èãı®
+S
+java:S1197"8Move the array designator from the variable to the type.(Ï€’Éøÿÿÿÿ
+S
+java:S1197
+"8Move the array designator from the variable to the type.(ş™‰øÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¯ºÊ
+m
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²Á€œüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+S
+java:S1197	"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ
