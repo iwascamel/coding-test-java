@@ -1,19 +1,19 @@
 
 N
-java:S1197"8Move the array designator from the variable to the type.(ŞÁÑ‚
-N
 java:S1197"8Move the array designator from the variable to the type.(´şƒ·
 o
 java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.( «‚Ñ
-S
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(ÅÍıìúÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(Í¹ñşÿÿÿÿ
 P
 java:S1854"5Remove this useless assignment to local variable "a".(˜±¾øÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(Í¹ñşÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÅÍıìúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ
 M
 java:S1197"8Move the array designator from the variable to the type.(¸Ì¹>
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(ŞÁÑ‚

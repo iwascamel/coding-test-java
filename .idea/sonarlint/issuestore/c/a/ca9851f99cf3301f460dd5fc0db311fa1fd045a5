@@ -1,16 +1,17 @@
 
-Z
-java:S1854"8Remove this useless assignment to local variable "temp".(êŒ™Úşÿÿÿÿ8÷¤Ş¢ª.
-o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À²õÀúÿÿÿÿ8÷¤Ş¢ª.
+F
+java:S2129-"$Remove this "BigInteger" constructor(‘õ˜¸úÿÿÿÿ8÷¤Ş¢ª.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô€ƒš8Ø¢İ¢ª.
 ;
 java:S2119G"Save and re-use this "Random".(¡Å”¦8÷¤Ş¢ª.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ô˜Ñùÿÿÿÿ8Ø¢İ¢ª.
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À²õÀúÿÿÿÿ8÷¤Ş¢ª.
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸óÁËÿÿÿÿÿ8÷¤Ş¢ª.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãë­Àûÿÿÿÿ8Ø¢İ¢ª.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹é¡úÿÿÿÿ8Ø¢İ¢ª.
 Z
 java:S1854%"8Remove this useless assignment to local variable "temp".(êŒ™Úşÿÿÿÿ8÷¤Ş¢ª.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãë­Àûÿÿÿÿ8Ø¢İ¢ª.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô€ƒš8Ø¢İ¢ª.
-F
-java:S2129-"$Remove this "BigInteger" constructor(‘õ˜¸úÿÿÿÿ8÷¤Ş¢ª.
-o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸óÁËÿÿÿÿÿ8÷¤Ş¢ª.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ô˜Ñùÿÿÿÿ8Ø¢İ¢ª.
 r	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘õ˜¸úÿÿÿÿ8÷¤Ş¢ª.
+Z
+java:S1854"8Remove this useless assignment to local variable "temp".(êŒ™Úşÿÿÿÿ8÷¤Ş¢ª.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ8äşüÑ.

@@ -1,17 +1,18 @@
 
-Z	java:S106V"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8¨ÎÔÞÀ.
-X	java:S125="<This block of commented-out lines of code should be removed.(´Ô€…8§±äÝÀ.
-]	java:S125"<This block of commented-out lines of code should be removed.(ýüŒÐÿÿÿÿÿ8‰›ÃÕÀ.
-X	java:S125)"<This block of commented-out lines of code should be removed.(ºÞ²8¯ãšÖÀ.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8‰·®½À.
 W	java:S1253"<This block of commented-out lines of code should be removed.(ûÑß.8˜€ÞÀ.
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8•äØ¼À.
-U	java:S106I"9Replace this use of System.out or System.err by a logger.(×•œ²8·ÑÞÀ.
+X	java:S125)"<This block of commented-out lines of code should be removed.(ºÞ²8¯ãšÖÀ.
+X	java:S125="<This block of commented-out lines of code should be removed.(´Ô€…8§±äÝÀ.
 U	java:S106S"9Replace this use of System.out or System.err by a logger.(×•œ²8¨ÎÔÞÀ.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8Ú¯ÖÞÀ.
 ]	java:S125
 "<This block of commented-out lines of code should be removed.(ï‹¬áýÿÿÿÿ8–Îð½À.
-Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8²ÌÞÀ.
-Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8Ú¯ÖÞÀ.
-]	java:S125"<This block of commented-out lines of code should be removed.(ýüŒÐÿÿÿÿÿ8ÿÖ¦ÕÀ.
 Z	java:S106L"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8²ÌÞÀ.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8²ÌÞÀ.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8¨ÎÔÞÀ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8•äØ¼À.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8‰·®½À.
+]	java:S125"<This block of commented-out lines of code should be removed.(ýüŒÐÿÿÿÿÿ8‰›ÃÕÀ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ýüŒÐÿÿÿÿÿ8ÿÖ¦ÕÀ.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(×•œ²8·ÑÞÀ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ8ØþžüÑ.

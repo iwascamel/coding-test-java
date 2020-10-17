@@ -1,13 +1,7 @@
 
 U	java:S106""9Replace this use of System.out or System.err by a logger.(’õŞó8¹–ŞÄ.
-X	java:S125"<This block of commented-out lines of code should be removed.(á¹¾Ø8‚ŞÄ.
-]	java:S125"<This block of commented-out lines of code should be removed.(Êâ¤¼üÿÿÿÿ8Ù¹æİÄ.
-X	java:S125"<This block of commented-out lines of code should be removed.(ÓÙñá8Ù¹æİÄ.
-]	java:S125"<This block of commented-out lines of code should be removed.(¸œÖûÿÿÿÿ8Ù¹æİÄ.
 Z
 java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8À³¬İÄ.
-W	java:S125"<This block of commented-out lines of code should be removed.(Şãâ_8‚ŞÄ.
 ]	java:S125"<This block of commented-out lines of code should be removed.(ş¹èøüÿÿÿÿ8Ù¹æİÄ.
 X	java:S125
 "<This block of commented-out lines of code should be removed.(ªÅæî8‚ŞÄ.
-]	java:S125"<This block of commented-out lines of code should be removed.(‘ÀŒíÿÿÿÿÿ8Ù¹æİÄ.

@@ -1,9 +1,10 @@
 
-M
-java:S1854	"7Remove this useless assignment to local variable "idx".(Å÷‡ã
-S
-java:S1197"8Move the array designator from the variable to the type.(ïƒÃíþÿÿÿÿ
 S
 java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ïƒÃíþÿÿÿÿ
+M
+java:S1854	"7Remove this useless assignment to local variable "idx".(Å÷‡ã
 >
 java:S1481	"(Remove this unused "idx" local variable.(Å÷‡ã
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ8çþžüÑ.
