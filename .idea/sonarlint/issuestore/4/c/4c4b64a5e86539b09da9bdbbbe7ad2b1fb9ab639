@@ -1,0 +1,12 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş®àèÿÿÿÿÿ
+C	java:S131""Add a default case to this switch.(æ²â™úÿÿÿÿ8ÊÖá†Ú.
+U
+java:S1197$"8Move the array designator from the variable to the type.(‰‡™8«¢ç†Ú.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ»Å
+W
+java:S1854"5Remove this useless assignment to local variable "a".(ñ§›Ûşÿÿÿÿ8šéí†Ú.
+U
+java:S1197"8Move the array designator from the variable to the type.(¾üñ¨8ÊÖá†Ú.
+H
+java:S1481"&Remove this unused "a" local variable.(ñ§›Ûşÿÿÿÿ8šéí†Ú.

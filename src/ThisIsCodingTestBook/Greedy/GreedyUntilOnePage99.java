@@ -16,6 +16,5 @@ public class GreedyUntilOnePage99 {
             count++;
         }
         System.out.println(count);
-
     }
 }

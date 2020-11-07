@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¥²ÿûÿÿÿÿ
+U
+java:S1197"8Move the array designator from the variable to the type.(ÆÀò8”’öÒÖ.
+I
+java:S1481",Remove this unused "seconds" local variable.(Ş¡şÀ8³†ŸÓÖ.
+[
+java:S1854"9Remove this useless assignment to local variable "hours".(Æôšêıÿÿÿÿ8³†ŸÓÖ.
+I
+java:S1481",Remove this unused "minutes" local variable.(úÔĞÀ8³†ŸÓÖ.
+L
+java:S1481"*Remove this unused "hours" local variable.(Æôšêıÿÿÿÿ8³†ŸÓÖ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8×ÙÆÒÖ.
+X
+java:S1854";Remove this useless assignment to local variable "seconds".(Ş¡şÀ8³†ŸÓÖ.
+X
+java:S1854";Remove this useless assignment to local variable "minutes".(úÔĞÀ8³†ŸÓÖ.

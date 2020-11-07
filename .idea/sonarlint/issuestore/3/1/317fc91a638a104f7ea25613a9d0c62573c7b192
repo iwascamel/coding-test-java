@@ -1,13 +1,13 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(… ¼Á8Ç¬ã×®.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ8ê¿²°Ã.
 U
-java:S1197"8Move the array designator from the variable to the type.(›ìÈ8Ç¬ã×®.
+java:S1197
+"8Move the array designator from the variable to the type.(Éîø¦8Ç¬ã×®.
 P
 java:S1121".Extract the assignment out of this expression.(’üë·şÿÿÿÿ8Ç¬ã×®.
 X
 java:S2094"BRemove this empty class, write its code or make it an "interface".(… ¼Á
-U
-java:S1197
-"8Move the array designator from the variable to the type.(Éîø¦8Ç¬ã×®.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(… ¼Á8Ç¬ã×®.
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡¤¦
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ8ê¿²°Ã.
+U
+java:S1197"8Move the array designator from the variable to the type.(›ìÈ8Ç¬ã×®.

@@ -1,0 +1,21 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•˜€›
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‹¼8’ç’Ò.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÕÖ¢úÿÿÿÿ8’ç’Ò.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ÿüûÿÿÿÿ8’ç’Ò.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¤Œâìıÿÿÿÿ8¤²•Ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É’ï¹ùÿÿÿÿ8şÙ˜Ò.
+Z
+java:S1197"8Move the array designator from the variable to the type.(äÕÖ¢úÿÿÿÿ8’ç’Ò.
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8’ç’Ò.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÏŸ‘ÿÑ.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡™´ıÿÿÿÿ8Åµ“Ò.
+Z
+java:S1197"8Move the array designator from the variable to the type.(îãğ£ıÿÿÿÿ8›ëŸÒ.
+U
+java:S1197"8Move the array designator from the variable to the type.(œÈŠ8è—Ò.

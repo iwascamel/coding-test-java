@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´³‰û
+>
+java:S1659"!Declare "min" on a separate line.(Æ°÷à8¨™à€Î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8Óå€Î.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ñí´öıÿÿÿÿ8¨™à€Î.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ùŒÚ€Î.
