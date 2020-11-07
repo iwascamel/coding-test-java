@@ -1,4 +1,4 @@
-package ThisIsCodingTestBook.baeminTest;
+package BaeminTest;
 
 import java.util.ArrayList;
 

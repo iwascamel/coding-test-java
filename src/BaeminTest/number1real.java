@@ -1,4 +1,4 @@
-package ThisIsCodingTestBook.baeminTest;
+package BaeminTest;
 
 public class number1real {
     public static void main(String[] args) {
