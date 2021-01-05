@@ -5,13 +5,7 @@ public class Number5 {
         String penter = "1100";
         String pexit = "0010";
         String pescape = "1001";
-        String data = "1101" +
-                "1001" +
-                "0010" +
-                "1111" +
-                "0011" +
-                "1100" +
-                "0000";
+        String data = "1101100100101111001111000000";
 
         int size = data.length()/penter.length();
 

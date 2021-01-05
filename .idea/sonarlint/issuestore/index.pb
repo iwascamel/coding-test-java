@@ -1,6 +1,4 @@
 
-F
-src/AlgorithmTest.java,0\8\08234e69bfd6f946e15fdbc677ce408be655f3d7
 Q
 !src/AlgorithmLecture/Seoyeon.java,b\a\bac96630258bc397e678a6e30f90cc3c10fd3c44
 N
@@ -29,8 +27,6 @@ Q
 !src/AlgorithmLecture/kruskal.java,3\1\317fc91a638a104f7ea25613a9d0c62573c7b192
 a
 1src/AlgorithmLecture/BinarySearchIteratively.java,c\5\c58bbc261666aeb1c1370cc29fe93a258164757e
-C
-src/StreamTest.java,2\5\255426e9debf338371b4900f6307e6817a2fe923
 M
 src/CodingTest/QuickSort.java,6\4\648d073dd0c92e871478365031b8906001cdace2
 Q
@@ -39,8 +35,6 @@ L
 src/CodingTest/LineTest.java,7\2\72b87b289e25ad34de0f0768544648588bea8e35
 Q
 !src/CodingTest/LineNumberTwo.java,0\f\0fc94ef4e3f9037f475e86b378f078c2c476989c
-O
-src/TestFiles/OptionalTest.java,0\0\00886401be2c9c7b6f9edfef410e0b4674d972a1
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -98,17 +92,51 @@ i
 9src/ThisIsCodingTestBook/dataStructure/QueuePractice.java,6\6\664d9207866ec7a2703791f71c4091b7221913f7
 k
 ;src/ThisIsCodingTestBook/dataStructure/RecursePractice.java,c\7\c747795d67d3b7003dc60520609eaae2605aed8d
-i
-9src/ThisIsCodingTestBook/baeminTest/bufferReaderTest.java,a\0\a00729e612793ad186f2da01d09edf300f4d6551
+Y
+)Algorithm_Preparation_For_Coding_Test.iml,4\4\44c4b74888ea8c72542f22c99c0e5a6c8429188f
+T
+$src/BaeminTest/bufferReaderTest.java,9\f\9f79d0f703355b11768e398e8d623ac61b0c726e
+K
+src/BaeminTest/number1.java,1\6\1614659e3cdbd042301673bcbff5ab2bec88e94c
+K
+src/BaeminTest/Number6.java,b\3\b38366c3fc13b5aad7d2b791830bdd2bdd50fdb9
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+src/BaeminTest/number1real.java,0\9\0904e76af4f296080d64437871d9e41af46d9930
+K
+src/BaeminTest/Number2.java,5\3\530a3cb2060af21e336a34fe8b9e265ff05eab49
+T
+$src/TestFiles/SubStringPractice.java,e\d\ed04b710ce0cc0f533822c3a31434dd5ff0e51bc
+K
+src/BaeminTest/Number3.java,3\3\33fb217958bdc43cf1f8619a4d9eca36b58db981
+K
+src/BaeminTest/Number5.java,d\7\d7ed7f4f1c5cd70c7929801c4e37d1b33037bf11
+M
+src/TestFiles/StreamTest.java,d\4\d47a9abbf4e43314d8df19686a841b02f2acbf35
+P
+ src/TestFiles/AlgorithmTest.java,3\b\3b4f74e2ba3dc1a39ca82e71a14e10284338e811
 d
-4src/ThisIsCodingTestBook/baeminTest/number1real.java,4\c\4c4b64a5e86539b09da9bdbbbe7ad2b1fb9ab639
+4src/Programmers/PracticeFiles/ArrayCopyPractice.java,6\d\6d6fda122834f32d9acbd62cc9761c3e3d18a7d9
+k
+;src/Programmers/PracticeFiles/PhysicalEducationClothes.java,f\3\f3dd9989c654c7063c818a6a1ba3e53415268b36
+\
+,src/Programmers/PracticeFiles/BreakLoop.java,a\a\aad33536ada77219a6f9c0eb5177f9edd4237e18
+C
+src/ScratchPad.java,d\a\dafa815cf7c6591dffd4c174627b97f427f52cf8
 `
-0src/ThisIsCodingTestBook/baeminTest/number1.java,e\3\e3e2bfe95a886bbfbe001915f81131d6527848fc
-`
-0src/ThisIsCodingTestBook/baeminTest/Number2.java,0\9\09667ce96930ee71cf87da8878c0382d53e7eed0
-`
-0src/ThisIsCodingTestBook/baeminTest/Number3.java,7\a\7a6e3eef2ed25b8a8c1e157702167e425818b304
-`
-0src/ThisIsCodingTestBook/baeminTest/Number5.java,b\4\b4f8d549d7097e876becfd031ab0eec8d0ef20e9
-`
-0src/ThisIsCodingTestBook/baeminTest/Number6.java,0\6\06351c191d3a8fb4e82517164ac6a3c0b8b73e39
+0src/Programmers/PracticeFiles/StackPractice.java,5\1\5145ee5ee6cd4d9def7cce0903f20f9699356587
+]
+-src/Programmers/StackAndQueue/StockPrice.java,4\2\42fcd81d1ab1eb9b777334ebf566c8c0064756f2
+h
+8src/Programmers/StackAndQueue/FunctionalDevelopment.java,4\e\4eff207ce23edc2f331b51ed60237eee7b72396e
+U
+%src/PracticeFiles/DfsBfsPractice.java,c\6\c6c4c1f06dad4ac5c58acbeec5d2aaef8805ff18
+K
+src/PracticeFiles/Main.java,7\1\71f658f746906b6162b514c1676ef0da68d53054
+R
+"src/InflearnLecture/MovesZero.java,b\0\b0bdfd208e9f1def04b0585c3b08faddd0dc783b
+b
+2src/InflearnLecture/structures/ComparableTest.java,c\4\c4d3400d4c166c51399f5a7cc3036b2c74267398
+T
+$src/InflearnLecture/MeetingRoom.java,a\1\a1cd0e3c2b026c4b7f173ff9e0cf70e80b909717

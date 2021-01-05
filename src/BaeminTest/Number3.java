@@ -9,10 +9,6 @@ public class Number3 {
 
         int money = 1000;
 
-        Solution a = new Solution();
-        int result = a.solution(1000,expected,actual);
-
-        System.out.println(result);
 
 //        for (int i = 0; i < actual.length; i++) {
 //            if (money <= 0) {
@@ -39,21 +35,22 @@ public class Number3 {
 //        System.out.println(money);
 
     }
-    static class Solution {
+
+    class Solution {
         public int solution(int money, String[] expected, String[] actual) {
 
             int multiply = 1;
 
             for (int i = 0; i < actual.length; i++) {
                 if (money <= 0) {
-                    money=0;
+                    money = 0;
                     break;
                 }
 
-                int battingMoney = 100*multiply;
+                int battingMoney = 100 * multiply;
 
-                if(money<battingMoney){
-                    battingMoney=money;
+                if (money < battingMoney) {
+                    battingMoney = money;
                 }
 
                 if (expected[i].equals(actual[i])) {
@@ -69,5 +66,5 @@ public class Number3 {
             return money;
 
         }
-        }
+    }
 }

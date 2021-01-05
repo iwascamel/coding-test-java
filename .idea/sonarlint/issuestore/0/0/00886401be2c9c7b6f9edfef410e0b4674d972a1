@@ -1,6 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹­£‰
-Q
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ñ¶ÏÕÈ.
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ùªàÛ8ñ¶ÏÕÈ.

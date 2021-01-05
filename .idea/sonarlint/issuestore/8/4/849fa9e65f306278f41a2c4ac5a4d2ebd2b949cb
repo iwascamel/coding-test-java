@@ -1,16 +1,16 @@
 
-U
-java:S1197"8Move the array designator from the variable to the type.(ÆÀò8ùÌµÑÖ.
-]
-java:S1854"@Remove this useless assignment to local variable "fromDateTime".(â˜òø8ùÌµÑÖ.
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ñ¾ÒĞÖ.
-\
-java:S1854":Remove this useless assignment to local variable "period".(Ñó½ïùÿÿÿÿ8¾Î±ÒÖ.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¥²ÿûÿÿÿÿ
-U	java:S106""9Replace this use of System.out or System.err by a logger.(í÷Ï8šı·ÑÖ.
 M
 java:S1481"+Remove this unused "period" local variable.(Ñó½ïùÿÿÿÿ8¾Î±ÒÖ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¥²ÿûÿÿÿÿ
+\
+java:S1854":Remove this useless assignment to local variable "period".(Ñó½ïùÿÿÿÿ8¾Î±ÒÖ.
 N
 java:S1481"1Remove this unused "fromDateTime" local variable.(â˜òø8ùÌµÑÖ.
+U
+java:S1197"8Move the array designator from the variable to the type.(ÆÀò8ùÌµÑÖ.
 U	java:S106,"9Replace this use of System.out or System.err by a logger.(±œÉï8ÆÜ½ÒÖ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ñ¾ÒĞÖ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(í÷Ï8šı·ÑÖ.
+]
+java:S1854"@Remove this useless assignment to local variable "fromDateTime".(â˜òø8ùÌµÑÖ.
