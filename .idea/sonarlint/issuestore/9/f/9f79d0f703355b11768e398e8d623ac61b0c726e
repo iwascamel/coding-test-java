@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ƒñ½†Ú.
+R
+java:S1481"0Remove this unused "firstString" local variable.(ÀŠñÆÿÿÿÿÿ8—Ÿ¶†Ú.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "=======" 3 times.(ÑÔÇÆÿÿÿÿÿ8‡¿†Ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ8‡¿†Ú.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ8Ã‡¨†Ú.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀºúüÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ¼ã–8ê¥¨†Ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üïâ±8—Ÿ¶†Ú.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Ë¾¥†Ú.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èÊ‘€üÿÿÿÿ
+a
+java:S1854"?Remove this useless assignment to local variable "firstString".(ÀŠñÆÿÿÿÿÿ8—Ÿ¶†Ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ8²î¹†Ú.

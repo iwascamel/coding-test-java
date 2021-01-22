@@ -1,28 +1,28 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦˜À¬ýÿÿÿÿ8ÜÆ¶ÑÏ.
-S
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-^
-java:S2259""HA "NullPointerException" could be thrown; "stackRight" is nullable here.(œò‘¬
-_
-java:S2583("DChange this condition so that it does not always evaluate to "false"(«ºèÅýÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(”ƒª…
->
-java:S1659"(Declare "stackRight" on a separate line.(”ƒª…
-N
-java:S1197"8Move the array designator from the variable to the type.(ö¥®¯
-E
-java:S3740"/Provide the parametrized type for this generic.(”ƒª…
-f
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ƒª…
-f
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ƒª…
-9
-java:S1659"#Declare "right" on a separate line.(–›Î¸
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´³‰û
 b
 java:S2259"GA "NullPointerException" could be thrown; "stackLeft" is nullable here.(ŽòÎûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦˜À¬ýÿÿÿÿ8ÜÆ¶ÑÏ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´³‰û
+^
+java:S2259""HA "NullPointerException" could be thrown; "stackRight" is nullable here.(œò‘¬
 h
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ö¥®¯
+N
+java:S1197"8Move the array designator from the variable to the type.(ö¥®¯
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ƒª…
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ƒª…
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(”ƒª…
+_
+java:S2583("DChange this condition so that it does not always evaluate to "false"(«ºèÅýÿÿÿÿ
+>
+java:S1659"(Declare "stackRight" on a separate line.(”ƒª…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(”ƒª…
+9
+java:S1659"#Declare "right" on a separate line.(–›Î¸

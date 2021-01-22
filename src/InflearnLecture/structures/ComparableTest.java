@@ -1,6 +1,9 @@
 package InflearnLecture.structures;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 class Person implements Comparable<Person>{
     int height;
@@ -43,5 +46,30 @@ public class ComparableTest {
             System.out.println("name = " + person.name + " " + "weight = " + person.weight);
         }
 
+        System.out.println(" === arrayList === ");
+
+        List<Person> personArrayList = new ArrayList<>();
+
+        personArrayList.add(ersu);
+        personArrayList.add(heechan);
+
+        for (Person person : personArrayList) {
+            System.out.println("name = " + person.name + " " + "weight = " + person.weight);
+        }
+
+        Comparator<Person> comp = new Comparator<Person>() {
+            @Override
+            public int compare(Person o1, Person o2) {
+                return o2.weight-o1.weight;
+            }
+        };
+
+        System.out.println(" === arrayList After sorting === ");
+
+        personArrayList.sort(comp);
+
+        for (Person person : personArrayList) {
+            System.out.println("name = " + person.name + " " + "weight = " + person.weight);
+        }
     }
 }

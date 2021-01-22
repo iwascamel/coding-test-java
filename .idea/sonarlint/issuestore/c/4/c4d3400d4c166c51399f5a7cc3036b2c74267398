@@ -1,0 +1,17 @@
+
+J
+java:S1604<"(Make this anonymous inner class a lambda(ü‚˜Óıÿÿÿÿ8Õ«³í.
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(›¹à%8¿ğêİì.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Áö«“ùÿÿÿÿ8¿ğêİì.
+l
+java:S1192&"JDefine a constant instead of duplicating this literal "weight = " 4 times.(Áö«“ùÿÿÿÿ8Ò’°í.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ›Åıÿÿÿÿ
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Áö«“ùÿÿÿÿ8øÜ´í.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ôÚÎ8Ãµí.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Áö«“ùÿÿÿÿ8çÎäİì.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ÓŞòÁÿÿÿÿÿ8Ò’°í.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Áö«“ùÿÿÿÿ8Ò’°í.
+j
+java:S1192&"HDefine a constant instead of duplicating this literal "name = " 4 times.(Áö«“ùÿÿÿÿ8Ò’°í.
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ê¤‰óûÿÿÿÿ8öê×İì.

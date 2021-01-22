@@ -2,46 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/MeetingRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/MovesZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/structures/ComparableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeFiles/DfsBfsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeFiles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/PracticeFiles/ArrayCopyPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/PracticeFiles/BreakLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/PracticeFiles/PhysicalEducationClothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/PracticeFiles/StackPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/StackAndQueue/FunctionalDevelopment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/StackAndQueue/StockPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestFiles/SubStringPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00886401be2c9c7b6f9edfef410e0b4674d972a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06351c191d3a8fb4e82517164ac6a3c0b8b73e39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08234e69bfd6f946e15fdbc677ce408be655f3d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09667ce96930ee71cf87da8878c0382d53e7eed0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b15a2de5aae410eca53c473dc806dd9703fe163" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b15a2de5aae410eca53c473dc806dd9703fe163" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/255426e9debf338371b4900f6307e6817a2fe923" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c04bd602a409a8eb833e6223836cb82e3d30366" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c04bd602a409a8eb833e6223836cb82e3d30366" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c4b64a5e86539b09da9bdbbbe7ad2b1fb9ab639" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664d9207866ec7a2703791f71c4091b7221913f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664d9207866ec7a2703791f71c4091b7221913f7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74641eaf6d4331c3e604dd9e03a249f48b683a3a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74641eaf6d4331c3e604dd9e03a249f48b683a3a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76f6f7c96fcd8f42d32526a324e1f9eeec7b66b7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76f6f7c96fcd8f42d32526a324e1f9eeec7b66b7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a6e3eef2ed25b8a8c1e157702167e425818b304" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/849fa9e65f306278f41a2c4ac5a4d2ebd2b949cb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/849fa9e65f306278f41a2c4ac5a4d2ebd2b949cb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/964fba1fc6d7cf437ed86e4b35ed6a863916d5aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/964fba1fc6d7cf437ed86e4b35ed6a863916d5aa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a00729e612793ad186f2da01d09edf300f4d6551" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab41526e6b6d65b0c5314747eebad1930c7991a7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab41526e6b6d65b0c5314747eebad1930c7991a7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4f8d549d7097e876becfd031ab0eec8d0ef20e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2837480dfa1297950ec76152c32b401d213b212" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2837480dfa1297950ec76152c32b401d213b212" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3e2bfe95a886bbfbe001915f81131d6527848fc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0904e76af4f296080d64437871d9e41af46d9930" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1614659e3cdbd042301673bcbff5ab2bec88e94c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33fb217958bdc43cf1f8619a4d9eca36b58db981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b4f74e2ba3dc1a39ca82e71a14e10284338e811" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42fcd81d1ab1eb9b777334ebf566c8c0064756f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44c4b74888ea8c72542f22c99c0e5a6c8429188f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4eff207ce23edc2f331b51ed60237eee7b72396e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/5145ee5ee6cd4d9def7cce0903f20f9699356587" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/530a3cb2060af21e336a34fe8b9e265ff05eab49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b7bf41ed23a085ab1ed0c7336f65f6eb762e7cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d6fda122834f32d9acbd62cc9761c3e3d18a7d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71f658f746906b6162b514c1676ef0da68d53054" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c1825c3d0ca86d530dea8584aa6a8609b8e9ece" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f79d0f703355b11768e398e8d623ac61b0c726e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1cd0e3c2b026c4b7f173ff9e0cf70e80b909717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aad33536ada77219a6f9c0eb5177f9edd4237e18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0bdfd208e9f1def04b0585c3b08faddd0dc783b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b38366c3fc13b5aad7d2b791830bdd2bdd50fdb9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4d3400d4c166c51399f5a7cc3036b2c74267398" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6c4c1f06dad4ac5c58acbeec5d2aaef8805ff18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d19faf5652933211b91bd804fe24c5845907e7e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d47a9abbf4e43314d8df19686a841b02f2acbf35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d77b3dcad640362fab04d79eed469d5530b789e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7ed7f4f1c5cd70c7929801c4e37d1b33037bf11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed04b710ce0cc0f533822c3a31434dd5ff0e51bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3dd9989c654c7063c818a6a1ba3e53415268b36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/KCloset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/UniqueEmailAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/structures/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InflearnLecture/structures/StringTokenizerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/316dee24de370976c71758d2567389f13c925c24" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/316dee24de370976c71758d2567389f13c925c24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47419788fac579b4c66822233809074e72e12cb6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47419788fac579b4c66822233809074e72e12cb6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5ab981f9b628f9257b4215acdf0e8e8f95412bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5ab981f9b628f9257b4215acdf0e8e8f95412bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFiles/AlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaeminTest/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaeminTest/Number3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaeminTest/Number5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaeminTest/Number5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFiles/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestFiles/OptionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InflearnLecture/MeetingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InflearnLecture/MeetingRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InflearnLecture/MovesZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InflearnLecture/MovesZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InflearnLecture/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/InflearnLecture/readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InflearnLecture/structures/ComparableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InflearnLecture/structures/ComparableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeFiles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeFiles/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +90,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.ComparableTest">
-    <configuration name="ComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InflearnLecture.structures.ComparableTest" />
+  <component name="RunManager" selected="Application.UniqueEmailAddress">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFiles.Main" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InflearnLecture.structures.*" />
+          <option name="PATTERN" value="PracticeFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalDevelopment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.StackAndQueue.FunctionalDevelopment" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.StackAndQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MeetingRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InflearnLecture.MeetingRoom" />
+    <configuration name="MovesZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InflearnLecture.MovesZero" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.PracticeFiles.StackPractice" />
+    <configuration name="StringTokenizerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InflearnLecture.structures.StringTokenizerTest" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.PracticeFiles.*" />
+          <option name="PATTERN" value="InflearnLecture.structures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,25 +130,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.StackAndQueue.StockPrice" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InflearnLecture.TwoSum" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.StackAndQueue.*" />
+          <option name="PATTERN" value="InflearnLecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueEmailAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InflearnLecture.UniqueEmailAddress" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InflearnLecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MeetingRoom" />
-        <item itemvalue="Application.FunctionalDevelopment" />
-        <item itemvalue="Application.StockPrice" />
-        <item itemvalue="Application.StackPractice" />
+        <item itemvalue="Application.UniqueEmailAddress" />
+        <item itemvalue="Application.StringTokenizerTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.MovesZero" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +277,17 @@
       <workItem from="1609681640690" duration="3825000" />
       <workItem from="1609734241340" duration="1656000" />
       <workItem from="1609771265506" duration="1586000" />
+      <workItem from="1609835168678" duration="7190000" />
+      <workItem from="1609927128859" duration="1461000" />
+      <workItem from="1610029380292" duration="657000" />
+      <workItem from="1610305810596" duration="143000" />
+      <workItem from="1610372500377" duration="1234000" />
+      <workItem from="1610434955116" duration="8000" />
+      <workItem from="1610714523887" duration="2015000" />
+      <workItem from="1610725061622" duration="590000" />
+      <workItem from="1610757229130" duration="1188000" />
+      <workItem from="1611321279643" duration="2121000" />
+      <workItem from="1611328450780" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -332,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604765405358</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="21. 01. 05 알고리즘">
+      <created>1609835235643</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609835235644</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +381,79 @@
     <MESSAGE value="20.10.13 algorithm commit" />
     <MESSAGE value="20.10.13 GreedyLawOfGreatNumbersPage92" />
     <MESSAGE value="20. 11.08 배민 우아한 테크" />
-    <option name="LAST_COMMIT_MESSAGE" value="20. 11.08 배민 우아한 테크" />
+    <MESSAGE value="21. 01. 05 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="21. 01. 05 알고리즘" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InflearnLecture/TwoSum.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorhythmTest$AlgorithmTest.ic" NAME="AlgorithmTest Coverage Results" MODIFIED="1590933879430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

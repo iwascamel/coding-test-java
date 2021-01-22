@@ -1,0 +1,21 @@
+
+Z
+java:S1197	"8Move the array designator from the variable to the type.(ØÍÕíøÿÿÿÿ8âÌ·‡Ú.
+>
+java:S21534"Remove the boxing to "Long".(¨†Éñÿÿÿÿÿ8ÕÆ‡Ú.
+8
+java:S2153:"Remove the boxing to "Long".(«¢|8ÕÆ‡Ú.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀºúüÿÿÿÿ
+_
+java:S2184:"CCast one of the operands of this subtraction operation to a "long".(«¢|8Õ¥Å‡Ú.
+C	java:S1312""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8—¹Ã‡Ú.
+h
+java:S21847"FCast one of the operands of this multiplication operation to a "long".(š§‹ëüÿÿÿÿ8Õ¥Å‡Ú.
+b
+java:S21844"@Cast one of the operands of this addition operation to a "long".(¨†Éñÿÿÿÿÿ8Õ¥Å‡Ú.
+Z
+java:S1197'"8Move the array designator from the variable to the type.(òµ£ıÿÿÿÿ8—¹Ã‡Ú.
+>
+java:S21537"Remove the boxing to "Long".(š§‹ëüÿÿÿÿ8ÕÆ‡Ú.
+C	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8üÊ¬‡Ú.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8åˆ¼‡Ú.

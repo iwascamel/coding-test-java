@@ -1,0 +1,19 @@
+
+L
+java:S1481
+"*Remove this unused "money" local variable.(Šòêéøÿÿÿÿ8—û¿ˆÚ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀºúüÿÿÿÿ
+O
+java:S1481"-Remove this unused "expected" local variable.(­ÍÔ½ûÿÿÿÿ8‰æÁœÚ.
+^
+java:S1854"<Remove this useless assignment to local variable "expected".(­ÍÔ½ûÿÿÿÿ8‰æÁœÚ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¥ÖÃ¯ÿÿÿÿÿ8—û¿ˆÚ.
+H
+java:S1481"+Remove this unused "actual" local variable.( ˆ®¨8‰æÁœÚ.
+J
+java:S1481"-Remove this unused "multiply" local variable.(ÓĞœÆ8—û¿ˆÚ.
+[
+java:S1854
+"9Remove this useless assignment to local variable "money".(Šòêéøÿÿÿÿ8—û¿ˆÚ.
+W
+java:S1854":Remove this useless assignment to local variable "actual".( ˆ®¨8‰æÁœÚ.

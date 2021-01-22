@@ -18,6 +18,13 @@ class Interval {
     }
 }
 
+/*
+문제의 포인트
+1. 객체 정렬
+2. logic 세우기 -> 시작 시간 = 끝 시간 겹치는 지?를 코드로 옮길 수 있느냐
+*/
+
+// 1번 강좌
 public class MeetingRoom {
     public static void main(String[] args) {
         MeetingRoom a = new MeetingRoom();
@@ -62,4 +69,5 @@ public class MeetingRoom {
             System.out.println(in.start+ " " + in.end);
         }
     }
+
 }
