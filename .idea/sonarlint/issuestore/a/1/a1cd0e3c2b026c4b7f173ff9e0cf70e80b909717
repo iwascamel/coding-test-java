@@ -1,8 +1,8 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¼¬‰
-U	java:S106E"9Replace this use of System.out or System.err by a logger.(²Û«8Ğìİì.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô°ı‘üÿÿÿÿ8ğ¼İì.
-U	java:S106("9Replace this use of System.out or System.err by a logger.(­é¹“8™À™İì.
 p	java:S116;"ORename this field "Comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ«ıÿÿÿÿ8¶›ªİì.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(­é¹“8™À™İì.
 J
 java:S1604;"(Make this anonymous inner class a lambda(Ğ«ıÿÿÿÿ8¶›ªİì.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(²Û«8Ğìİì.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô°ı‘üÿÿÿÿ8ğ¼İì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¼¬‰

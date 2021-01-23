@@ -1,4 +1,4 @@
-package InflearnLecture;
+package inflearnLecture.string_array;
 
 /*
    String str= "8F3Z-2e9-w"

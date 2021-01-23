@@ -1,4 +1,4 @@
-package InflearnLecture;
+package inflearnLecture.string_array;
 
 /*
 문제의 포인트

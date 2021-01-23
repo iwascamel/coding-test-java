@@ -1,4 +1,4 @@
-package InflearnLecture;
+package inflearnLecture.string_array;
 
 /*
 문제 : interval 이 주어지고, 필요한 회의실의 갯수를 구하는 문제

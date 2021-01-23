@@ -1,4 +1,4 @@
-package InflearnLecture.structures;
+package inflearnLecture.structures;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -50,8 +50,6 @@ public class ComparableTest {
 
         List<Person> personArrayList = new ArrayList<>();
 
-        personArrayList.add(ersu);
-        personArrayList.add(heechan);
 
         for (Person person : personArrayList) {
             System.out.println("name = " + person.name + " " + "weight = " + person.weight);

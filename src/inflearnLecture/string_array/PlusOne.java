@@ -1,4 +1,4 @@
-package InflearnLecture;
+package inflearnLecture.string_array;
 
 /*
 배열이 주어질 때, 1이 더해지면 출력되는 배열을 구하라

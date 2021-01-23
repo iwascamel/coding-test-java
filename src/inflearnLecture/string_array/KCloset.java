@@ -1,4 +1,4 @@
-package InflearnLecture;
+package inflearnLecture.string_array;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
