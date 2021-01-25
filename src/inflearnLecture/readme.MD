@@ -5,3 +5,9 @@
 5. 코드로 옮기기
 
 [문제 링크](https://github.com/codingstudy-pushup/javacoding_top50)
+
+1.
+담을 그릇을 정한다
+
+2.
+for-while loop 를 돌린다

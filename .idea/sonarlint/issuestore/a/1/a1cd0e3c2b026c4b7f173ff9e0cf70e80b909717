@@ -1,8 +1,0 @@
-
-p	java:S116;"ORename this field "Comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π«ύÿÿÿÿ8¶›ªέμ.
-U	java:S106("9Replace this use of System.out or System.err by a logger.(­ιΉ“8™ΐ™έμ.
-J
-java:S1604;"(Make this anonymous inner class a lambda(Π«ύÿÿÿÿ8¶›ªέμ.
-U	java:S106E"9Replace this use of System.out or System.err by a logger.(²Ϋ«8Πμέμ.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Τ°ύ‘όÿÿÿÿ8πΌέμ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ό¬‰
