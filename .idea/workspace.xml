@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeFiles/inflearnPractice/linkedList/AddTwoNumbersPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/linkedList/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/linkedList/MergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/linkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/structures/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/structures/PriorityQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/structures/ReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0904e76af4f296080d64437871d9e41af46d9930" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0904e76af4f296080d64437871d9e41af46d9930" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1614659e3cdbd042301673bcbff5ab2bec88e94c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1614659e3cdbd042301673bcbff5ab2bec88e94c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b7bf41ed23a085ab1ed0c7336f65f6eb762e7cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c1825c3d0ca86d530dea8584aa6a8609b8e9ece" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f79d0f703355b11768e398e8d623ac61b0c726e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f79d0f703355b11768e398e8d623ac61b0c726e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1cd0e3c2b026c4b7f173ff9e0cf70e80b909717" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0bdfd208e9f1def04b0585c3b08faddd0dc783b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d77b3dcad640362fab04d79eed469d5530b789e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/UniquePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/stack_queue/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/structures/StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/stack_queue/BaseBallGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/stack_queue/BaseBallGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,52 +59,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.structures.MapTest" />
+  <component name="RunManager" selected="Application.ValidParentheses">
+    <configuration name="BaseBallGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.stack_queue.BaseBallGame" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearnLecture.structures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.linkedList.MergeKSortedLists" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearnLecture.linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.structures.PriorityQueueTest" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearnLecture.structures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.structures.ReferenceTest" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearnLecture.structures.*" />
+          <option name="PATTERN" value="inflearnLecture.stack_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,24 +86,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.structures.StackTest" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearnLecture.structures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.dp.UniquePath" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearnLecture.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.stack_queue.ValidParentheses" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearnLecture.stack_queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.UniquePath" />
+        <item itemvalue="Application.BaseBallGame" />
         <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.MergeKSortedLists" />
-        <item itemvalue="Application.PriorityQueueTest" />
-        <item itemvalue="Application.ReferenceTest" />
-        <item itemvalue="Application.MapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +248,7 @@
       <workItem from="1611328450780" duration="3628000" />
       <workItem from="1611375565974" duration="13023000" />
       <workItem from="1611460755000" duration="8051000" />
-      <workItem from="1611579796546" duration="6715000" />
+      <workItem from="1611579796546" duration="11317000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -365,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611408807257</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="21. 01. 26 알고리즘">
+      <created>1611591379589</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611591379589</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +365,8 @@
     <MESSAGE value="20. 11.08 배민 우아한 테크" />
     <MESSAGE value="21. 01. 05 알고리즘" />
     <MESSAGE value="21. 01. 23 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="21. 01. 23 알고리즘" />
+    <MESSAGE value="21. 01. 26 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="21. 01. 26 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
