@@ -3,7 +3,7 @@ package inflearnLecture.dp;
 /*
 dp ( dynamic programming ) = 전에값 저장하기
 
-case 나누어서 전의 값 + 전의 값 = 다음 밧
+case 나누어서 전의 값 + 전의 값 = 다음 값
  */
 
 public class UniquePath {
