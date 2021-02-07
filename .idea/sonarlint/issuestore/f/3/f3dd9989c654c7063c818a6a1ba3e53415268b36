@@ -1,16 +1,0 @@
-
-Z
-java:S1854"8Remove this useless assignment to local variable "lost".( ÌÊûùÿÿÿÿ8òßàµÚ.
-I
-java:S1481",Remove this unused "reserve" local variable.(öûç…8òßàµÚ.
-R
-java:S1854"5Remove this useless assignment to local variable "n".(“âÃ8òßàµÚ.
-G
-java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8òßàµÚ.
-X
-java:S1854";Remove this useless assignment to local variable "reserve".(öûç…8òßàµÚ.
-C
-java:S1481"&Remove this unused "n" local variable.(“âÃ8òßàµÚ.
-K
-java:S1481")Remove this unused "lost" local variable.( ÌÊûùÿÿÿÿ8òßàµÚ.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿø3

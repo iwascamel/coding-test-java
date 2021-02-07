@@ -1,16 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="21. 02.03 알고리즘">
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/stack_queue/LevelOrderOfBinaryTree.java" afterDir="false" />
+    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03919a7e68efcfcc248c6061d5866fb1f289fd3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0904e76af4f296080d64437871d9e41af46d9930" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a4154a00d47980dc51d9fc755358a150e477d4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f03926f622bb3b7a1a8ccb1f780fb0ddc5bd78b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fc94ef4e3f9037f475e86b378f078c2c476989c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1614659e3cdbd042301673bcbff5ab2bec88e94c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/196959d50b6c4bf36858cf6d3e9137effa139f26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b15a2de5aae410eca53c473dc806dd9703fe163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b942fb7702c1f900e6517ca30f016efda770625" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bf02126f78bcd6189ee8f63cf946625d4c3f155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21c4179d34ee2d15f493c4185ca0d43cd074366d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27ec2e2d9d7768faae9a611f68e0e127dd49bf0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/283f4588587012a0450f6e0d27aadb246abd660c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/316dee24de370976c71758d2567389f13c925c24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/317fc91a638a104f7ea25613a9d0c62573c7b192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33fb217958bdc43cf1f8619a4d9eca36b58db981" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37658147336aa002b23885a30bfcb7c7f9206452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b4f74e2ba3dc1a39ca82e71a14e10284338e811" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42fcd81d1ab1eb9b777334ebf566c8c0064756f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47419788fac579b4c66822233809074e72e12cb6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c04bd602a409a8eb833e6223836cb82e3d30366" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ec06598ecef8ceaff13cb81e221742a51b29459" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4eff207ce23edc2f331b51ed60237eee7b72396e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/5145ee5ee6cd4d9def7cce0903f20f9699356587" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/530a3cb2060af21e336a34fe8b9e265ff05eab49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56641a33e461cf94aa0df7af0eb3fd7f602216d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/648d073dd0c92e871478365031b8906001cdace2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664d9207866ec7a2703791f71c4091b7221913f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/671b1a83571c7655cf5f1c73d3de01a2ec2f6c89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d6fda122834f32d9acbd62cc9761c3e3d18a7d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7051a17b063a9e5339963dbeedfa26de3aac93bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71f658f746906b6162b514c1676ef0da68d53054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72b87b289e25ad34de0f0768544648588bea8e35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74641eaf6d4331c3e604dd9e03a249f48b683a3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76f6f7c96fcd8f42d32526a324e1f9eeec7b66b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/849fa9e65f306278f41a2c4ac5a4d2ebd2b949cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8acc8f7e8cc7ac3b0c5a7680b6571c21369f0ad2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/964fba1fc6d7cf437ed86e4b35ed6a863916d5aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f79d0f703355b11768e398e8d623ac61b0c726e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aad33536ada77219a6f9c0eb5177f9edd4237e18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab41526e6b6d65b0c5314747eebad1930c7991a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b38366c3fc13b5aad7d2b791830bdd2bdd50fdb9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac96630258bc397e678a6e30f90cc3c10fd3c44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0000b843e10a5910d8182a4ff1888c67deecd1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c58bbc261666aeb1c1370cc29fe93a258164757e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5ab981f9b628f9257b4215acdf0e8e8f95412bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6c4c1f06dad4ac5c58acbeec5d2aaef8805ff18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c747795d67d3b7003dc60520609eaae2605aed8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c75ff405cc1b88b1024b71eeb1637a86560e27e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c79b0b48f7765c697a26bae035a8d93af950e2e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c90d4ae20ac9947e1724f78bf16c4a65af471e54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9851f99cf3301f460dd5fc0db311fa1fd045a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d47a9abbf4e43314d8df19686a841b02f2acbf35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7ed7f4f1c5cd70c7929801c4e37d1b33037bf11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2837480dfa1297950ec76152c32b401d213b212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e32d555116fdf3bd26be2976db0243c5661c8cab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92e990976d6e32a60bf9ae3e9603dc151a5e287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed04b710ce0cc0f533822c3a31434dd5ff0e51bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edc386e4167dbd837740fcc382a8daf5a091acae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eef4132a439ccd592d4562d1327c60677907fd70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3dd9989c654c7063c818a6a1ba3e53415268b36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe4bdfaf34705cf3807b8395377b252b34b1d0cd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/dp/UniquePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/UniquePath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +121,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.ClimbingStairs">
+  <component name="RunManager" selected="Application.NumberOfIsland_BFS">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inflearnLecture.dp.ClimbingStairs" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
@@ -103,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.structures.StackTest" />
+    <configuration name="NumberOfIsland_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.graph.NumberOfIsland_BFS" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearnLecture.structures.*" />
+          <option name="PATTERN" value="inflearnLecture.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.stack_queue.ValidParentheses" />
+    <configuration name="NumberOfIsland_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearnLecture.graph.NumberOfIsland_DFS" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearnLecture.stack_queue.*" />
+          <option name="PATTERN" value="inflearnLecture.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,24 +187,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfIsland_BFS" />
+        <item itemvalue="Application.NumberOfIsland_DFS" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.LevelOrderOfBinaryTree" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.StackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +330,8 @@
       <workItem from="1612289669316" duration="28000" />
       <workItem from="1612289794901" duration="5839000" />
       <workItem from="1612304965298" duration="1219000" />
-      <workItem from="1612444436740" duration="2523000" />
+      <workItem from="1612444436740" duration="2576000" />
+      <workItem from="1612700675147" duration="4668000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -377,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611604159631</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="21. 02.05 알고리즘">
+      <created>1612451130818</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612451130818</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +464,8 @@
     <MESSAGE value="21. 01. 23 알고리즘" />
     <MESSAGE value="21. 01. 26 알고리즘" />
     <MESSAGE value="21. 02.03 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="21. 02.03 알고리즘" />
+    <MESSAGE value="21. 02.05 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="21. 02.05 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

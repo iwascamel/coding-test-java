@@ -1,13 +1,0 @@
-
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³¨ó¸ùÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£éÎ°ûÿÿÿÿ
-D
-java:S2140")Use "java.util.Random.nextInt()" instead.(Üö–Âÿÿÿÿÿ
-‡
-java:S1130D"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ
-S
-java:S1197D"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
-=
-java:S1125J"(Remove the literal "true" boolean value.(œ¥Ü,
-S	java:S106K"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
-S	java:S106M"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ
