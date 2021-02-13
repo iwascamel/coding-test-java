@@ -15,7 +15,7 @@ public class FindAnagramMapping {
 
         int[] result = solution(a,b);
         for (int i : result) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
     }
 
