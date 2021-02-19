@@ -20,9 +20,9 @@ public class LongestIncreasingSubsequence {
 
         LongestIncreasingSubsequence a = new LongestIncreasingSubsequence();
         int[] nums = {1,2,3, 2, 5, 2, 6, 10, 4, 12};
-//		int[] nums = {9,11,2,8,4,7,88,15};
+		int[] nums2 = {9,11,2,8,4,7,88,15,16,17,18};
 
-        System.out.println("value "+ a.solve(nums));
+        System.out.println("value "+ a.solve(nums2));
     }
     public int solve(int[] nums) {
         if(nums == null || nums.length==0)
@@ -32,11 +32,14 @@ public class LongestIncreasingSubsequence {
         int result = 1;
         for(int i=1; i<nums.length; i++){
             for(int j=0; j<i; j++){
-                if(nums[j]<nums[i]){
+                if(nums[i-1]<nums[i]){
                     dp[i]=Math.max(dp[j]+1,dp[i]);
                 }
             }
             result=Math.max(result, dp[i]);
+        }
+        for (int i1 : dp) {
+            System.out.println(i1);
         }
         return result;
 

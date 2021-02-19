@@ -43,6 +43,8 @@ public class NumberOfIsland_BFS {
         while(!queue.isEmpty()){
             int size = queue.size();
             int[] point = queue.poll();
+            System.out.println(point[0]);
+            System.out.println(point[1]);
             for(int i=0;i<size;i++){
                 for(int[] dir:dirs){
                     int x1 = point[0]+dir[0];

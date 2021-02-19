@@ -1,2 +1,4 @@
 
-T	java:S106	"9Replace this use of System.out or System.err by a logger.(øáÊ8Àô…¿Û.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú…‡ì8¾Õ‡¡û.
+z
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "s1".(ï¹‡«üÿÿÿÿ8¾Õ‡¡û.
