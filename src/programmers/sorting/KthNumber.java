@@ -1,4 +1,4 @@
-package Programmers.sorting;
+package programmers.sorting;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
