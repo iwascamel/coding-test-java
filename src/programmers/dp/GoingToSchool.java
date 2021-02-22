@@ -5,16 +5,20 @@ public class GoingToSchool {
             int m=4;
             int n=3;
             int[][] puddles = {
-                    {2,2}
+                    {2,2},
+                    {2,3},
+                    {3,3}
             };
-            solution(m,n,puddles);
+        int solution = solution(m, n, puddles);
+        System.out.println(solution);
     }
 
     private static int solution(int m, int n, int[][] puddles) {
 
-        int lm = m;
-        int ln = n;
-        int[][] result = new int[m][n];
+        int lm = n;
+        int ln = m;
+
+        int[][] result = new int[n][m];
 
         for(int i=0;i<lm;i++){
             result[i][0]=1;
@@ -34,10 +38,13 @@ public class GoingToSchool {
             for(int j=1;j<ln;j++){
                 boolean flag=false;
                 for(int k=0;k< puddles.length;k++){
-                        int i1 = puddles[k][0];
-                        int j1 = puddles[k][1];
+                        int i1 = puddles[k][0]-1;
+                        int j1 = puddles[k][1]-1;
 
-                        if(i==i1 && j==j1) flag=true;
+                    if (i == i1 && j == j1) {
+                        flag = true;
+                        break;
+                    }
                 }
                 if(flag){
                     result[i][j]=0;
@@ -47,6 +54,8 @@ public class GoingToSchool {
             }
         }
         int max=0;
+
+        print(result);
 
         for(int i=0;i<result[0].length;i++){
             max = Math.max(max,result[result.length-1][i]);
