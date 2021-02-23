@@ -1,29 +1,21 @@
 public class ScratchPad {
     public static void main(String[] args) {
 
-        String str = "8F3Z-2e-9-wadwqdas";
-        int k=5;
-        String solution = solution(str, k);
-        System.out.println(solution);
+        String s = "123444a";
 
-    }
+        int[] anagram = new int[256];
 
-    private static String solution(String str, int k) {
-        StringBuilder sb = new StringBuilder();
 
-        String replace = str.replace("-", "");
-        String s = replace.toUpperCase();
-        int length = s.length();
+        for(int i=0;i<s.length();i++){
 
-        for(int i=0;i<length;i++){
-            sb.append(s.charAt(i));
+            anagram[s.charAt(i)]++;
         }
 
-        for(int i=k;i<length;i=i+k){
-            sb.insert(length-i,"-");
+        for (int i : anagram) {
+            System.out.print(i + " ");
         }
-        String s1 = String.valueOf(sb);
-        return s1;
+
+        System.out.println();
     }
 }
 

@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/dp/ExpressWithN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/dp/GoingToSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/dp/TriangleInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/sorting/KthNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/hash/ListOfTelephoneNumber_Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/dp/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/dp/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/graph/NumberOfIsland_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/string_array/KthLargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/string_array/KthLargestElementInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearnLecture/structures/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearnLecture/structures/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/hash/ListOfTelephoneNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +60,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.KthNumber">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.dp.CoinChange" />
+  <component name="RunManager" selected="Application.ListOfTelephoneNumber_Anagram">
+    <configuration name="KthNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.sorting.KthNumber" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearnLecture.dp.*" />
+          <option name="PATTERN" value="programmers.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.sorting.KthNumber" />
+    <configuration name="ListOfTelephoneNumber_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.hash.ListOfTelephoneNumber_Anagram" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programmers.sorting.*" />
+          <option name="PATTERN" value="programmers.hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,15 +100,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovesZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearnLecture.string_array.MovesZero" />
+    <configuration name="ScratchPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScratchPad" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearnLecture.string_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListOfTelephoneNumber_Anagram" />
+        <item itemvalue="Application.ScratchPad" />
         <item itemvalue="Application.KthNumber" />
         <item itemvalue="Application.UniquePath" />
         <item itemvalue="Application.LongestIncreasingSubsequence" />
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.MovesZero" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +256,11 @@
       <workItem from="1612836094243" duration="1964000" />
       <workItem from="1612838110816" duration="1828000" />
       <workItem from="1613618476591" duration="12797000" />
+      <workItem from="1613735378362" duration="200000" />
+      <workItem from="1613986799597" duration="1943000" />
+      <workItem from="1614054653386" duration="610000" />
+      <workItem from="1614096458814" duration="2418000" />
+      <workItem from="1614104739610" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -414,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612838052874</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="21. 02.19">
+      <created>1613735567213</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1613735567213</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +438,8 @@
     <MESSAGE value="21. 02.05 알고리즘" />
     <MESSAGE value="21. 02.08 알고리즘" />
     <MESSAGE value="21. 02.09 알고리즘 ( bfs &amp; dfs )" />
-    <option name="LAST_COMMIT_MESSAGE" value="21. 02.09 알고리즘 ( bfs &amp; dfs )" />
+    <MESSAGE value="21. 02.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="21. 02.19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

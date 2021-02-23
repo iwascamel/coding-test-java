@@ -124,3 +124,13 @@ U
 %src/Programmers/dp/GoingToSchool.java,9\8\9800587963518416994310a210c0d607d3ab8ea3
 V
 &src/Programmers/sorting/KthNumber.java,4\4\44cc3ab6f10632bb716ea2962a68ec57f247a3ec
+W
+'src/programmers/dp/TriangleInteger.java,e\e\ee34b580c247382f9e649ce851e578f66a9a98c7
+T
+$src/programmers/dp/ExpressWithN.java,b\7\b73d5d50a1ce618321c8d9407e0912e6359719ac
+U
+%src/programmers/dp/GoingToSchool.java,b\a\ba1dcac4a96b4ab394c97a236b41a1569fedbb0e
+V
+&src/programmers/sorting/KthNumber.java,d\4\d42d8af65340c0fd76ed657cbd7f781bfe5e1e4d
+g
+7src/programmers/hash/ListOfTelephoneNumber_Anagram.java,f\7\f7769180882f4a9a6a0bcf642d85a64b50830c13
