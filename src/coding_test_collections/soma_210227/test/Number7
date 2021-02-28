@@ -1,0 +1,7 @@
+SELECT buyer_id,buy_date,book_name,price FROM orderInfo
+JOIN library ON orderInfo.book_id=library.book_id
+WHERE book_name='Looking With Elice' OR ( date_format(buy_date,'%Y-%m-%d') BETWEEN '2020-07-27' AND '2020-07-31')
+ORDER BY buy_date
+
+책 이름(book_name)이 Looking with Elice인 도서
+책 구매일(buy_date)이 2020-07-27부터 2020-07-31까지인 모든 도서 을 찾기
