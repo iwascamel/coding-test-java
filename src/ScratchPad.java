@@ -1,21 +1,15 @@
+import java.util.*;
+
 public class ScratchPad {
     public static void main(String[] args) {
 
-        String s = "123444a";
+        Queue<Integer> q = new LinkedList<>();
 
-        int[] anagram = new int[256];
+        q.offer(1);
+        q.offer(2);
+        q.offer(323);
 
-
-        for(int i=0;i<s.length();i++){
-
-            anagram[s.charAt(i)]++;
-        }
-
-        for (int i : anagram) {
-            System.out.print(i + " ");
-        }
-
-        System.out.println();
+        System.out.println(q.size());
     }
 }
 

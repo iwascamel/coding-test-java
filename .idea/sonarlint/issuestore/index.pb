@@ -134,3 +134,13 @@ V
 &src/programmers/sorting/KthNumber.java,d\4\d42d8af65340c0fd76ed657cbd7f781bfe5e1e4d
 g
 7src/programmers/hash/ListOfTelephoneNumber_Anagram.java,f\7\f7769180882f4a9a6a0bcf642d85a64b50830c13
+_
+/src/programmers/stack_and_queue/StockPrice.java,d\c\dce6ee07fea926dd4a33881cf787c1ee281bf606
+f
+6src/programmers/stack_and_queue/StockPrice_Second.java,2\e\2ebb51e210f1085c7e92f65c48be3632025d9035
+h
+8src/programmers/stack_and_queue/TruckCrossingBridge.java,9\c\9c66da4105ec9d2bccfa07c52b7718c91d1b6b75
+q
+Asrc/programmers/stack_and_queue/TruckCrossingBridge_Correct2.java,0\e\0ee9b691b546093c8e719d45ff26b87f0402b137
+p
+@src/programmers/stack_and_queue/TruckCrossingBridge_Correct.java,4\8\48999d01130730e392ef97363d0d20942364cf7a
