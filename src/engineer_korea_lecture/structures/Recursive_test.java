@@ -1,6 +1,6 @@
+package engineer_korea_lecture.structures;
 
-
-public class ScratchPad {
+public class Recursive_test {
     public static void main(String[] args) {
         A a = new A();
         int sum = a.sum(100);
@@ -16,5 +16,3 @@ public class ScratchPad {
         }
     }
 }
-
-
