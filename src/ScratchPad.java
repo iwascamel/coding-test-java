@@ -1,19 +1,11 @@
-
+import java.util.Scanner;
 
 public class ScratchPad {
     public static void main(String[] args) {
-        A a = new A();
-        int sum = a.sum(100);
-        System.out.println(sum);
-    }
-    static class A{
-        int sum(int var){
-            if(var == 1){
-                return 1;
-            }else{
-                return var + sum(var-1);
-            }
-        }
+        Scanner sc = new Scanner(System.in);
+
+        String s = sc.nextLine();
+        System.out.println(s);
     }
 }
 
