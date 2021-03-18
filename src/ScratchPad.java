@@ -1,11 +1,17 @@
-import java.util.Scanner;
-
 public class ScratchPad {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Integer a =5;
+        B b = new B();
+        b.score=3;
+        solution(b);
+        System.out.println(b.score);
+    }
 
-        String s = sc.nextLine();
-        System.out.println(s);
+    static class B{
+        int score;
+    }
+    private static void solution(B bb) {
+        bb.score=5;
     }
 }
 

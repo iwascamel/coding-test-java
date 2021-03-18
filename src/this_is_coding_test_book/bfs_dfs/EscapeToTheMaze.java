@@ -52,6 +52,7 @@ public class EscapeToTheMaze {
 
                 if(x1>=0 && x1<grid.length && y1>=0 && y1<grid[0].length && grid[x1][y1]==1){
                     grid[x1][y1]=grid[x][y]+1;
+//                    grid[x1][y1]=++value;
                     q.offer(new int[]{x1,y1});
                 }
             }
