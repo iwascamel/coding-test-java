@@ -1,10 +1,18 @@
+
 public class ScratchPad {
     public static void main(String[] args) {
-        String s = "()(!!)";
+        A a = new A();
+        a.number=5;
 
-       if(s.contains("#")){
-           System.out.println("!");
-       }
+        m(a);
+        System.out.println(a.number);
+    }
+    static class A{
+        int number;
+    }
+    static void m(A a){
+        A b = a;
+        b.number = 4;
     }
 }
 
