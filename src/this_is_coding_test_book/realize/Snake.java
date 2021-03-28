@@ -28,31 +28,47 @@ public class Snake {
         void move(char c,LinkedList ll){
             if (c == 'L') {
                 Node n = ll.header;
+                if(n.next==null){
+                    n.x = n.x + dirs[0][0];
+                    n.y = n.y + dirs[0][1];
+                }
                 while (n.next != null) {
-                    n.x = dirs[0][0];
-                    n.y = dirs[0][1];
+                    n.x = n.x + dirs[0][0];
+                    n.y = n.y + dirs[0][1];
                     n = n.next;
                 }
             }else if(c=='R'){
                 Node n = ll.header;
+                if(n.next==null) {
+                    n.x = n.x + dirs[1][0];
+                    n.y = n.y + dirs[1][1];
+                }
                 while (n.next != null) {
-                    n.x = dirs[1][0];
-                    n.y = dirs[1][1];
+                    n.x = n.x + dirs[1][0];
+                    n.y = n.y + dirs[1][1];
                     n = n.next;
                 }
             }else if(c=='U'){
                 Node n = ll.header;
+                if(n.next==null) {
+                    n.x = n.x + dirs[2][0];
+                    n.y = n.y + dirs[2][1];
+                }
                 while (n.next != null) {
-                    n.x = dirs[2][0];
-                    n.y = dirs[2][1];
+                    n.x = n.x + dirs[2][0];
+                    n.y = n.y + dirs[2][1];
                     n = n.next;
                 }
             }
             else if(c=='D'){
                 Node n = ll.header;
+                if(n.next==null){
+                    n.x = n.x + dirs[3][0];
+                    n.y = n.y + dirs[3][1];
+                }
                 while (n.next != null) {
-                    n.x = dirs[3][0];
-                    n.y = dirs[3][1];
+                    n.x = n.x + dirs[3][0];
+                    n.y = n.y + dirs[3][1];
                     n = n.next;
                 }
             }
@@ -101,14 +117,18 @@ public class Snake {
                 }
             }
             LinkedList ll = new LinkedList();
-            ll.move(currentDir,ll);
+            ll.move(currentDir, ll);
+
             int x = ll.header.x;
             int y = ll.header.y;
+
+            System.out.println(x);
+            System.out.println(y);
 
             if(arr[x][y]==1){
                 ll.getApple(x,y);
             }
-            if(x<1 || x>10 || y<1 || y>10|| ll.detect(ll,x,y)){
+            if(x>10 || y>10|| ll.detect(ll,x,y)){
                 break;
             }
             count++;
