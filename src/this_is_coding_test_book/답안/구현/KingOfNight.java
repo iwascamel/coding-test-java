@@ -1,4 +1,4 @@
-package this_is_coding_test_book.답안;
+package this_is_coding_test_book.답안.구현;
 
 import java.util.Scanner;
 
