@@ -1,18 +1,22 @@
 
-public class ScratchPad {
-    public static void main(String[] args) {
-        A a = new A();
-        a.number=5;
 
-        m(a);
-        System.out.println(a.number);
-    }
-    static class A{
-        int number;
-    }
-    static void m(A a){
-        A b = a;
-        b.number = 4;
+public class ScratchPad{
+    public static void main(String[] args) {
+
+        int[][] a = {
+                {1,1,0,0,0,0},
+                {1,1,1,1,1,0},
+                {1,1,1,0,0,1}
+        };
+
+        int[] b = {1,1,0,0,1};
+        int[] c = {1,3,4};
+
+        for(int i=0;i<b.length;i++){
+            for(int j=0;j<c.length;j++){
+
+            }
+        }
     }
 }
 
