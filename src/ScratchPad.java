@@ -1,23 +1,35 @@
+import java.util.PriorityQueue;
 
+public class ScratchPad {
 
-public class ScratchPad{
-    public static void main(String[] args) {
+    static class Node implements Comparable<Node>{
+        Integer val;
+        Integer index;
 
-        int[][] a = {
-                {1,1,0,0,0,0},
-                {1,1,1,1,1,0},
-                {1,1,1,0,0,1}
-        };
+        Node(int val,int index){
+            this.val=val;
+            this.index=index;
+        }
 
-        int[] b = {1,1,0,0,1};
-        int[] c = {1,3,4};
-
-        for(int i=0;i<b.length;i++){
-            for(int j=0;j<c.length;j++){
-
-            }
+        @Override
+        public int compareTo(Node o) {
+            return o.val.compareTo(this.val);
         }
     }
+
+    public static void main(String[] args) {
+
+        PriorityQueue<Node> pq = new PriorityQueue<Node>();
+        pq.offer(new Node(3,1));
+        pq.offer(new Node(5,2));
+        pq.offer(new Node(4,3));
+        pq.offer(new Node(9,4));
+
+        while(!pq.isEmpty()){
+            System.out.println(pq.poll().index);
+        }
+    }
+
 }
 
 
