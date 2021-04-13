@@ -13,13 +13,15 @@ public class NumberOfIsland_BFS {
     public static void main(String[] args) {
         char [][] data = {
                 {'1','1','1','0','1'},
-                {'1','1','0','0','0'},
                 {'1','1','0','0','1'},
+                {'1','1','0','0','0'},
                 {'1','1','0','0','1'},
                 {'0','0','0','0','1'}
         };
         Integer solution = solution(data);
         System.out.println(solution);
+
+        print(data);
     }
 
     private static Integer solution(char[][] data) {
@@ -41,20 +43,25 @@ public class NumberOfIsland_BFS {
         Queue<int[]> queue = new LinkedList<>();
         queue.offer(new int[] {x,y});
         while(!queue.isEmpty()){
-            int size = queue.size();
             int[] point = queue.poll();
-            System.out.println(point[0]);
-            System.out.println(point[1]);
-            for(int i=0;i<size;i++){
+            data[point[0]][point[1]]='X';
+
                 for(int[] dir:dirs){
                     int x1 = point[0]+dir[0];
                     int y1 = point[1]+dir[1];
                     if(x1>=0 && y1>=0 && x1<data.length && y1 < data[0].length && data[x1][y1]=='1'){
-                        data[x1][y1]='X';
                         queue.offer(new int[] {x1,y1});
                     }
                 }
+        }
+    }
+
+    private static void print(char[][] data){
+        for (int i=0;i<data.length;i++){
+            for(int j=0;j<data[0].length;j++){
+                System.out.print(data[i][j] + " ");
             }
+            System.out.println();
         }
     }
 }
