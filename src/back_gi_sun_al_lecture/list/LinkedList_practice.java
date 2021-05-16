@@ -14,6 +14,9 @@ public class LinkedList_practice {
 
         list.print();
 
+        list.reverse();
+        list.print();
+
     }
     void add(Node node){
         if (head == null ){
@@ -32,7 +35,18 @@ public class LinkedList_practice {
         }
     }
     void reverse(){
+        Node current = head;
+        Node prev = null;
+        Node next = null;
 
+        while(current!=null){
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current=next;
+        }
+        tail = head;
+        head = prev;
     }
 }
 
