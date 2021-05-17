@@ -1,9 +1,21 @@
-
 public class ScratchPad {
     public static void main(String[] args) {
-        int a= 12345;
 
-        System.out.println(a%10);
+    }
+}
+
+class Parent{
+    int a;
+    Parent(){
+        this.a=20;
+    }
+}
+
+class Child extends Parent{
+    int a;
+    Child(int a) {
+        super();
+        this.a=30;
     }
 }
 
