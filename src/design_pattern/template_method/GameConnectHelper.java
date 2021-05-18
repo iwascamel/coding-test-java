@@ -18,10 +18,7 @@ public abstract class GameConnectHelper {
 
         int authorization = authorization(id);
 
-        switch (authorization) {
-            case 1 -> System.out.println("매니저");
-            case 2 -> System.out.println("회원");
-        }
+
         String result = "최종 회원정보";
         return connection(result);
     }

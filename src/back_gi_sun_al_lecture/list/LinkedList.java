@@ -1,7 +1,9 @@
 package back_gi_sun_al_lecture.list;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class LinkedList {
 
@@ -29,6 +31,17 @@ public class LinkedList {
         System.out.println(list.getNthNumber_using_hashmap(5));
         System.out.println(list.getNthNumber_using_index(5));
         System.out.println(list.getNthNumber_using_twoPointer(5));
+
+        LinkedList list2 = new LinkedList();
+        list2.add(new Node(1));
+        list2.add(new Node(1));
+        list2.add(new Node(2));
+        list2.add(new Node(2));
+        list2.add(new Node(3));
+
+        list2.removeDuplicates_using_set();
+        list2.print();
+
     }
     void print(){
         Node node = this.head;
@@ -127,6 +140,94 @@ public class LinkedList {
             }
         }
         return left.val;
+    }
+
+    // 투 포인터 이용 -> 수리해주고 다음 것, 수리해주고 다음 것 이동하는 느낌임
+    // 같지 않을때까지 이동하고, 그 노드값을 현재 값에 넣어줌
+    void removeDuplicates_using_index(){
+        Node current = head;
+        while (current!=null){
+            Node next = current;
+            while (next!=null && next.val == current.val){
+                next=next.next;
+            }
+            current.next = next;
+            current= current.next;
+        }
+    }
+
+    void removeDuplicates_using_recursive(){
+        removeDuplicates_recursive(this.head);
+    }
+
+    // 현재와 다음것이 같으면, 다음것으로 넘어감. 재귀호출
+    // 같지 않다면 다음것 넘겨줌
+    Node removeDuplicates_recursive(Node node){
+        if (node==null){
+            return null;
+        }
+
+        if(node.next!=null){
+            if(node.val == node.next.val){
+                node.next = node.next.next;
+                removeDuplicates_recursive(node);
+            }else{
+                removeDuplicates_recursive(node.next);
+            }
+        }
+        return node;
+    }
+
+    // set 과 two pointer 이용
+    // 있다면 넘어가고, 없으면 넣어줌. prev 전진
+    void removeDuplicates_using_set(){
+        Set<Integer> set = new HashSet<>();
+        Node prev = null;
+        Node current = head;
+
+        while(current !=null){
+            if(set.contains(current.val)){
+                prev.next = current.next;
+            }else{
+                set.add(current.val);
+                prev = current;
+            }
+            current=current.next;
+        }
+    }
+
+    boolean findCircular_using_set(){
+        Node current = head;
+        Set<Node> set = new HashSet<>();
+        while(current!=null){
+            if(set.contains(current)){
+                return true;
+            }else{
+                set.add(current);
+                current= current.next;
+            }
+        }
+        return false;
+    }
+
+    // 시간복잡도 O(n), 공간 O(1)
+    // slow, fast 투 포인터 이용
+    // 순환 구조가 있다면 결국엔 만난다.
+    boolean findCircular_using_twoPointer(){
+        Node fast = head;
+        Node slow = head;
+
+        while(slow!=null && fast!=null){
+            if(fast.next==null || fast.next.next==null){
+                return false;
+            }
+            fast=fast.next.next;
+            if(fast==slow){
+                return true;
+            }
+            slow=slow.next;
+        }
+        return true;
     }
 
 }

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/문제.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/idea.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/idea.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design_pattern/template_method/GameConnectHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/template_method/GameConnectHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.ScratchPad">
+  <component name="RunManager" selected="Application.LinkedList">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="this_is_coding_test_book.binary_search.BinarySearch" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="this_is_coding_test_book.답안.구현.CompressString" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="back_gi_sun_al_lecture.list.LinkedList" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="this_is_coding_test_book.답안.구현.*" />
+          <option name="PATTERN" value="back_gi_sun_al_lecture.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +121,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.ScratchPad" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SwitchTwoArray" />
         <item itemvalue="Application.Combination" />
-        <item itemvalue="Application.CompressString" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +291,7 @@
       <workItem from="1618115220288" duration="56000" />
       <workItem from="1618339209873" duration="102000" />
       <workItem from="1618770869398" duration="59000" />
+      <workItem from="1621336640276" duration="6205000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -495,7 +510,9 @@
     <MESSAGE value="21.03.22" />
     <MESSAGE value="21.03.29" />
     <MESSAGE value="21.04.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.04.01" />
+    <MESSAGE value="21.05.17" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/camel-man-ims/preparation-for-coding-test&#10;&#10; Conflicts:&#10;&#9;src/ScratchPad.java&#10;&#9;src/structures/Combination.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/camel-man-ims/preparation-for-coding-test&#10;&#10; Conflicts:&#10;&#9;src/ScratchPad.java&#10;&#9;src/structures/Combination.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
