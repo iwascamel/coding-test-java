@@ -1,17 +1,19 @@
-import java.util.HashMap;
-import java.util.Map;
-
 public class ScratchPad {
     public static void main(String[] args) {
-        Map<Integer,Integer> map = new HashMap<>();
+        String recursive = recursive(10);
+//        System.out.println(recursive);
+    }
 
-        map.put(1,1);
-        map.put(2,2);
+    static String recursive(int n){
 
-        System.out.println(map.getOrDefault(2,4));
-        System.out.println(map.getOrDefault(3,4));
+        if(n==1){
+            System.out.println("1");
+            return "1";
+        }
 
-        System.out.println(map);
+        String result = recursive(n-1);
+        System.out.println(result+n);
+        return result+n;
     }
 }
 
