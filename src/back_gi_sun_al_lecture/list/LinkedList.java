@@ -28,9 +28,9 @@ public class LinkedList {
 //        list.reverse();
 //        list.print();
 
-        System.out.println(list.getNthNumber_using_hashmap(5));
-        System.out.println(list.getNthNumber_using_index(5));
-        System.out.println(list.getNthNumber_using_twoPointer(5));
+//        System.out.println(list.getNthNumber_using_hashmap(5));
+//        System.out.println(list.getNthNumber_using_index(5));
+//        System.out.println(list.getNthNumber_using_twoPointer(5));
 
         LinkedList list2 = new LinkedList();
         list2.add(new Node(1));
@@ -38,10 +38,19 @@ public class LinkedList {
         list2.add(new Node(2));
         list2.add(new Node(2));
         list2.add(new Node(3));
+        list2.add(new Node(3));
+        list2.add(new Node(3));
+        list2.add(new Node(3));
+        list2.add(new Node(3));
+        list2.add(new Node(4));
 
-        list2.removeDuplicates_using_set();
+
+        list2.removeDup_using_set_myMethod();
+
         list2.print();
 
+//        list2.removeDuplicates_using_set();
+//        list2.print();
     }
     void print(){
         Node node = this.head;
@@ -142,6 +151,7 @@ public class LinkedList {
         return left.val;
     }
 
+
     // 투 포인터 이용 -> 수리해주고 다음 것, 수리해주고 다음 것 이동하는 느낌임
     // 같지 않을때까지 이동하고, 그 노드값을 현재 값에 넣어줌
     void removeDuplicates_using_index(){
@@ -193,6 +203,20 @@ public class LinkedList {
                 prev = current;
             }
             current=current.next;
+        }
+    }
+
+    void removeDup_using_set_myMethod(){
+        Set<Integer> set = new HashSet<>();
+        Node node = head;
+        set.add(node.val);
+        while (node.next!=null){
+            if (set.contains(node.next.val)){
+                node.next=node.next.next;
+            }else{
+                set.add(node.next.val);
+                node=node.next;
+            }
         }
     }
 
