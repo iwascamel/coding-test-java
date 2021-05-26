@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/문제.md" afterDir="false" />
+    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="Merge branch 'master' of https://github.com/camel-man-ims/preparation-for-coding-test&#10;&#10; Conflicts:&#10;&#9;src/ScratchPad.java&#10;&#9;src/structures/Combination.java">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dafa815cf7c6591dffd4c174627b97f427f52cf8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/idea.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/idea.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/back_gi_sun_al_lecture/list/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/template_method/GameConnectHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/template_method/GameConnectHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engineer_korea_lecture/linked_list/FindLoopBeginNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engineer_korea_lecture/linked_list/FindLoopBeginNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.LinkedList">
+  <component name="RunManager" selected="Application.ScratchPad">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="this_is_coding_test_book.binary_search.BinarySearch" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
@@ -134,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.ScratchPad" />
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SwitchTwoArray" />
         <item itemvalue="Application.Combination" />
@@ -291,7 +289,11 @@
       <workItem from="1618115220288" duration="56000" />
       <workItem from="1618339209873" duration="102000" />
       <workItem from="1618770869398" duration="59000" />
-      <workItem from="1621336640276" duration="6205000" />
+      <workItem from="1621336640276" duration="7522000" />
+      <workItem from="1621405234496" duration="3047000" />
+      <workItem from="1621467735268" duration="1197000" />
+      <workItem from="1621924152282" duration="1274000" />
+      <workItem from="1621996972529" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -482,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617215771280</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Merge branch 'master' of https://github.com/camel-man-ims/preparation-for-coding-test&#10;&#10; Conflicts:&#10;&#9;src/ScratchPad.java&#10;&#9;src/structures/Combination.java">
+      <created>1621349138175</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1621349138175</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

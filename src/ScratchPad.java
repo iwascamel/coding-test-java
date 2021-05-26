@@ -1,19 +1,25 @@
 public class ScratchPad {
     public static void main(String[] args) {
-        String recursive = recursive(10);
-//        System.out.println(recursive);
+
+        Dog a = new Dog("A");
+        Dog b = a;
+
+        foo(a);
+
+        System.out.println(a.name);
+        System.out.println(b.name);
+
+    }
+    static class Dog{
+        String name;
+
+        Dog(String name){
+            this.name=name;
+        }
     }
 
-    static String recursive(int n){
-
-        if(n==1){
-            System.out.println("1");
-            return "1";
-        }
-
-        String result = recursive(n-1);
-        System.out.println(result+n);
-        return result+n;
+    static void foo(Dog d){
+        d = new Dog("C");
     }
 }
 
