@@ -2,13 +2,14 @@
 
 public class ScratchPad {
     public static void main(String[] args) {
-        String s = "ab cds wefew we";
-        String[] arr = s.split(" ");
+        int[] arr = {1,2,3,4,5};
+        int[] temp = arr;
 
-        for(String m : arr){
-            System.out.println(m);
+        temp[2]=100;
+
+        for(int i : arr){
+            System.out.print(i + " ");
         }
-
     }
 }
 
