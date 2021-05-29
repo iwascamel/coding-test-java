@@ -1,13 +1,13 @@
 package back_gi_sun_al_lecture.structures;
 
-public class StackImpl {
+public class StackImplByArray {
 
     private static final int STACK_SIZE = 3;
     private int[] arr = new int[STACK_SIZE];
     private int size = STACK_SIZE;
     private int index = 0;
 
-    StackImpl(){
+    StackImplByArray(){
     }
 
     public void push(int data){
