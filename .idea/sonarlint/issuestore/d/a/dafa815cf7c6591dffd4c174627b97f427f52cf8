@@ -1,7 +1,8 @@
 
-D
-java:S2387"'"a" is the name of a field in "Parent".(®š‹á8³œÔ—/
-D
-java:S1172"(Remove this unused method parameter "a".(«èïe8³œÔ—/
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8³œÔ—/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ã¥ìıÿÿÿÿ8¨İÔ´š/
+R
+java:S1854"5Remove this useless assignment to local variable "b".(Ëóä8êĞû´š/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÍÜËşÿÿÿÿ8¿•Õ´š/
+W
+java:S1854"5Remove this useless assignment to local variable "a".(­ÛúÒûÿÿÿÿ8êĞû´š/
