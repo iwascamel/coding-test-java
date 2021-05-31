@@ -28,20 +28,40 @@ public class LinkedList {
 //        list.reverse();
 //        list.print();
 
-        System.out.println(list.getNthNumber_using_hashmap(5));
-        System.out.println(list.getNthNumber_using_index(5));
-        System.out.println(list.getNthNumber_using_twoPointer(5));
+//        System.out.println(list.getNthNumber_using_hashmap(5));
+//        System.out.println(list.getNthNumber_using_index(5));
+//        System.out.println(list.getNthNumber_using_twoPointer(5));
 
         LinkedList list2 = new LinkedList();
-        list2.add(new Node(1));
-        list2.add(new Node(1));
-        list2.add(new Node(2));
-        list2.add(new Node(2));
-        list2.add(new Node(3));
 
-        list2.removeDuplicates_using_set();
-        list2.print();
+        Node n1 = new Node(1);
+        Node n2 = new Node(2);
+        Node n3 = new Node(3);
+        Node n4 = new Node(4);
+        Node n5 = new Node(5);
+        Node n6 = new Node(6);
+        Node n7 = new Node(7);
+        Node n8 = new Node(8);
 
+        list2.add(n1);
+        list2.add(n2);
+        list2.add(n3);
+        list2.add(n4);
+        list2.add(n5);
+        list2.add(n6);
+        list2.add(n7);
+        list2.add(n8);
+
+        list2.add(n4);
+
+        System.out.println(list2.findCircular_find_first_node().val);
+
+//        list2.removeDup_using_set_myMethod();
+
+//        list2.print();
+
+//        list2.removeDuplicates_using_set();
+//        list2.print();
     }
     void print(){
         Node node = this.head;
@@ -142,6 +162,7 @@ public class LinkedList {
         return left.val;
     }
 
+
     // 투 포인터 이용 -> 수리해주고 다음 것, 수리해주고 다음 것 이동하는 느낌임
     // 같지 않을때까지 이동하고, 그 노드값을 현재 값에 넣어줌
     void removeDuplicates_using_index(){
@@ -196,6 +217,20 @@ public class LinkedList {
         }
     }
 
+    void removeDup_using_set_myMethod(){
+        Set<Integer> set = new HashSet<>();
+        Node node = head;
+        set.add(node.val);
+        while (node.next!=null){
+            if (set.contains(node.next.val)){
+                node.next=node.next.next;
+            }else{
+                set.add(node.next.val);
+                node=node.next;
+            }
+        }
+    }
+
     boolean findCircular_using_set(){
         Node current = head;
         Set<Node> set = new HashSet<>();
@@ -228,6 +263,27 @@ public class LinkedList {
             slow=slow.next;
         }
         return true;
+    }
+
+    Node findCircular_find_first_node(){
+        Node slow = head;
+        Node fast = head;
+        // loop 가 없을수도 있기때문에
+        while(fast!=null && fast.next !=null){
+            slow=slow.next;
+            fast=fast.next.next;
+            if (slow==fast){
+                break;
+            }
+        }
+        if(fast==null || fast.next==null) return null;
+
+        slow=head;
+        while(slow!=fast){
+            slow=slow.next;
+            fast=fast.next;
+        }
+        return slow;
     }
 
 }
