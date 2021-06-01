@@ -39,10 +39,10 @@ public class Postfix {
                 int left = stack.pop();
 
                 switch (c) {
-                    case '+' -> stack.push(left + right);
-                    case '-' -> stack.push(left - right);
-                    case '*' -> stack.push(left * right);
-                    case '/' -> stack.push(left / right);
+//                    case '+' -> stack.push(left + right);
+//                    case '-' -> stack.push(left - right);
+//                    case '*' -> stack.push(left * right);
+//                    case '/' -> stack.push(left / right);
                 }
             }
         }
