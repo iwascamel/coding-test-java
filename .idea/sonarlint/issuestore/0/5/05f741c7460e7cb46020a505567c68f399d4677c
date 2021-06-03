@@ -1,0 +1,13 @@
+
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(Éê—
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ú…‡ì
+K
+java:S1854_"5Remove this useless assignment to local variable "N".(Á¹§ú
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¹§ú
+?
+java:S1172M")Remove this unused method parameter "ll".(î¥˜´
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+<
+java:S1481_"&Remove this unused "N" local variable.(Á¹§ú
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õ¸ÿÿÿÿÿ

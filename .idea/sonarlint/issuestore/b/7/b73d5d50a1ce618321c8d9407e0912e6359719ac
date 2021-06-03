@@ -1,0 +1,11 @@
+
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¨şß8™ßûÌü.
+S
+java:S2696*"6Make the enclosing method "static" or remove this set.(Åáö8™ßûÌü.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ú…‡ì8™ßûÌü.
+H
+java:S1481)"+Remove this unused "answer" local variable.(åí¢é8™ßûÌü.
+
+java:S1319"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(ƒ³X8™ßûÌü.
+P
+java:S1121&".Extract the assignment out of this expression.(ÛÃò•ûÿÿÿÿ8™ßûÌü.

@@ -1,0 +1,10 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ûµé²üÿÿÿÿ8 È‹/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú«¬©8âæÇ„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûµé²üÿÿÿÿ8Æô¹„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óåü‚şÿÿÿÿ8Ä¸„/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÄüÖùÿÿÿÿ8Ã¹„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‚ø‚ıÿÿÿÿ8¬ÕË„/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûµé²üÿÿÿÿ8Æô¹„/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú…‡ì8ÖüÍ‹/

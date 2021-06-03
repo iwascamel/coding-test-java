@@ -1,0 +1,9 @@
+
+O
+java:S1854/"9Remove this useless assignment to local variable "value".(ã·î
+Q	java:S1257"<This block of commented-out lines of code should be removed.(€ÜÛÑ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Œçïùÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¡Ø›Ìøÿÿÿÿ
+@
+java:S1481/"*Remove this unused "value" local variable.(ã·î

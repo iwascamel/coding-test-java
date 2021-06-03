@@ -1,0 +1,25 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(³ğÊİ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÿäªø
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(˜ªªŞüÿÿÿÿ
+k	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³âÎ8“Óîú—/
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ë¹“
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯“ÄŠûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á²ˆ™ùÿÿÿÿ
+p	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ëéşÿÿÿÿ8°û—/
+p	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‚òŒşÿÿÿÿ8“Óîú—/
+c	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†öƒº
+c
+java:S2259|"HA "NullPointerException" could be thrown; "targetNode" is nullable here.(ñ˜¯²üÿÿÿÿ
+S
+java:S1117R"8Rename "head" which hides the field declared at line 10.(·±¤¤øÿÿÿÿ
+c	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¬Òë
+^
+java:S2259~"HA "NullPointerException" could be thrown; "targetNode" is nullable here.(‹Œ„ä
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(€ä’Éüÿÿÿÿ
+p	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬•ç©ûÿÿÿÿ8ÆÄ÷û—/
+p	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡úÌÎùÿÿÿÿ8öÜïú—/
+k	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦…óÖ8ÆÄ÷û—/
+`
+java:S2259¾"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅŞŒ8Òï¸û—/
+h	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¥­Ñüÿÿÿÿ

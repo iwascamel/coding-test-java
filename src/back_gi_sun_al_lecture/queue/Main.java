@@ -2,7 +2,7 @@ package back_gi_sun_al_lecture.queue;
 
 public class Main {
     public static void main(String[] args) {
-        QueueImplEngineerKorea<Integer> queue = new QueueImplEngineerKorea<Integer>();
+        Qprac<Integer> queue = new Qprac<>();
 
         queue.offer(1);
         queue.offer(2);

@@ -1,0 +1,18 @@
+
+a
+java:S2259"FA "NullPointerException" could be thrown; "solution" is nullable here.(þºïŸúÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "n5".(¸§¡’
+L
+java:S1854"6Remove this useless assignment to local variable "n3".(ùã‚ƒ
+L
+java:S1854"6Remove this useless assignment to local variable "n2".(þ±–Ñ
+L
+java:S6212"/Declare this local variable with "var" instead.(¢‚­ø8»èôµœ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þºïŸúÿÿÿÿ
+=
+java:S1481"'Remove this unused "n2" local variable.(þ±–Ñ
+=
+java:S1481"'Remove this unused "n3" local variable.(ùã‚ƒ
+=
+java:S1481"'Remove this unused "n5" local variable.(¸§¡’

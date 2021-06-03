@@ -1,0 +1,11 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "solution".(Â†¾âøÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "str2".(€•Şëøÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‚¨Ú
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+D
+java:S1481")Remove this unused "str2" local variable.(€•Şëøÿÿÿÿ
+H
+java:S1481"-Remove this unused "solution" local variable.(Â†¾âøÿÿÿÿ

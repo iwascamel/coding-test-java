@@ -1,0 +1,27 @@
+
+C
+java:S1604;"(Make this anonymous inner class a lambda(Π«ύÿÿÿÿ
+i	java:S116;"ORename this field "Comp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π«ύÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(μύÿ8λτµ/
+Q
+java:S6212 "/Declare this local variable with "var" instead.(Ξ­ωΒόÿÿÿÿ8 λτµ/
+L
+java:S6212!"/Declare this local variable with "var" instead.(—²ω©8΅λτµ/
+K
+java:S6212""/Declare this local variable with "var" instead.(ΝΩΪI8Άλτµ/
+Q
+java:S6212$"/Declare this local variable with "var" instead.(™ρεΛÿÿÿÿÿ8£λτµ/
+Q
+java:S6212%"/Declare this local variable with "var" instead.(ΟªΣκωÿÿÿÿ8¥λτµ/
+Q
+java:S6212'"/Declare this local variable with "var" instead.(‘ΟΗύÿÿÿÿ8¦λτµ/
+N	java:S106("9Replace this use of System.out or System.err by a logger.(­ιΉ“
+L
+java:S6212*"/Declare this local variable with "var" instead.(ν½®Δ8ªλτµ/
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Τ°ύ‘όÿÿÿÿ
+L
+java:S62123"/Declare this local variable with "var" instead.(πΏƒ»8¶λτµ/
+L
+java:S6212C"/Declare this local variable with "var" instead.(ΉΪ8ΐλτµ/
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(²Ϋ«

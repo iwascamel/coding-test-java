@@ -1,0 +1,19 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(ΏÒόÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "result".(¨έ±–
+N
+java:S1197"8Move the array designator from the variable to the type.(¨έ±–
+U
+java:S1854":Remove this useless assignment to local variable "result".(­‹ωϋÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "queue".(ώΖιΆύÿÿÿÿ
+A
+java:S1481"+Remove this unused "result" local variable.(¨έ±–
+E
+java:S1481"*Remove this unused "queue" local variable.(ώΖιΆύÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(­‹ωϋÿÿÿÿ
+@
+java:S1481"*Remove this unused "index" local variable.(μόΰ·

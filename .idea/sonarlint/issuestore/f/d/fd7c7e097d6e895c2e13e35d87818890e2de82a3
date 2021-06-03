@@ -1,0 +1,15 @@
+
+a
+java:S1192"HDefine a constant instead of duplicating this literal "=======" 3 times.(ÑÔÇÆÿÿÿÿÿ
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èÊ‘€üÿÿÿÿ
+X
+java:S1854"?Remove this useless assignment to local variable "firstString".(ÀŠñÆÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(üïâ±
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¼ã–
+I
+java:S1481"0Remove this unused "firstString" local variable.(ÀŠñÆÿÿÿÿÿ

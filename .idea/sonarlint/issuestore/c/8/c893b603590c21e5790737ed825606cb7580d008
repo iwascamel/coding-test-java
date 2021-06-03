@@ -1,0 +1,7 @@
+
+Y
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(áì»÷ýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½ŒÄýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Â½ŒÄýÿÿÿÿ

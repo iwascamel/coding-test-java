@@ -1,0 +1,21 @@
+
+f
+java:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™±†§ÿÿÿÿÿ
+N
+java:S1854'"8Remove this useless assignment to local variable "left".(äé–ˆ
+N
+java:S1854&"9Remove this useless assignment to local variable "right".(‡õ$
+Q
+java:S6212 "/Declare this local variable with "var" instead.(Úšïüÿÿÿÿ8€íôµœ/
+Q
+java:S6212!"/Declare this local variable with "var" instead.(ğ×«•ùÿÿÿÿ8íôµœ/
+C	java:S108)")Either remove or fill this block of code.(îÇËúÿÿÿÿ
+<	java:S131)""Add a default case to this switch.(îÇËúÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ï€×Øıÿÿÿÿ
+?
+java:S1481&"*Remove this unused "right" local variable.(‡õ$
+?
+java:S1481'")Remove this unused "left" local variable.(äé–ˆ

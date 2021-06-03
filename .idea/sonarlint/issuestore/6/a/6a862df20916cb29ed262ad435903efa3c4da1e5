@@ -1,0 +1,16 @@
+
+R
+java:S1854"9Remove this useless assignment to local variable "money".(Šòêéøÿÿÿÿ
+N
+java:S1854":Remove this useless assignment to local variable "actual".( ˆ®¨
+U
+java:S1854"<Remove this useless assignment to local variable "expected".(­ÍÔ½ûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¥ÖÃ¯ÿÿÿÿÿ
+F
+java:S1481"-Remove this unused "expected" local variable.(­ÍÔ½ûÿÿÿÿ
+?
+java:S1481"+Remove this unused "actual" local variable.( ˆ®¨
+A
+java:S1481"-Remove this unused "multiply" local variable.(ÓĞœÆ
+C
+java:S1481"*Remove this unused "money" local variable.(Šòêéøÿÿÿÿ

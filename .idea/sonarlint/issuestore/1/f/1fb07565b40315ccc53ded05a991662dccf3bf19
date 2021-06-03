@@ -1,0 +1,20 @@
+
+Y
+java:S2184"@Cast one of the operands of this addition operation to a "long".(¨†Éñÿÿÿÿÿ
+_
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(š§‹ëüÿÿÿÿ
+V
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(«¢|
+Q
+java:S1197"8Move the array designator from the variable to the type.(ØÍÕíøÿÿÿÿ
+:	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+Q
+java:S1197"8Move the array designator from the variable to the type.(òµ£ıÿÿÿÿ
+:	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+5
+java:S2153"Remove the boxing to "Long".(¨†Éñÿÿÿÿÿ
+5
+java:S2153"Remove the boxing to "Long".(š§‹ëüÿÿÿÿ
+/
+java:S2153"Remove the boxing to "Long".(«¢|

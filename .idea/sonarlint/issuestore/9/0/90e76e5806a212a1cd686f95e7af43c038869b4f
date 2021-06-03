@@ -1,0 +1,21 @@
+
+=
+java:S1481"'Remove this unused "dx" local variable.(»ºİß
+M
+java:S1854"7Remove this useless assignment to local variable "row".(çâóş
+L
+java:S1854"6Remove this useless assignment to local variable "dx".(»ºİß
+>	java:S108")Either remove or fill this block of code.(ÀŞù
+>
+java:S1481"(Remove this unused "row" local variable.(çâóş
+L
+java:S1854"6Remove this useless assignment to local variable "dy".(¨Œß‹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û«Ù›øÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "column".(ãäÏÁşÿÿÿÿ
+F
+java:S1481"+Remove this unused "column" local variable.(ãäÏÁşÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(Ó°¬Ñøÿÿÿÿ
+=
+java:S1481"'Remove this unused "dy" local variable.(¨Œß‹

@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ôúàùÿÿÿÿ8±‡œÔ—/
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8±‡œÔ—/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ôúàùÿÿÿÿ8±‡œÔ—/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(²‰¿­ûÿÿÿÿ8±‡œÔ—/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±‡œÔ—/
+8
+java:S3626."Remove this redundant jump.(ûÁİ…8±‡œÔ—/
+E
+java:S1125;"(Remove the literal "true" boolean value.(É×§8±‡œÔ—/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(º¼É°8±‡œÔ—/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Í…ÿÿÿÿÿ8±‡œÔ—/

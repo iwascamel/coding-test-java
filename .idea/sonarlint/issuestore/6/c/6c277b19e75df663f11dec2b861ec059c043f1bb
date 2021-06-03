@@ -1,0 +1,8 @@
+
+I
+java:S1481
+"'Remove this unused "b1" local variable.(ý¨ÔÛøÿÿÿÿ8©²çÉˆ/
+X
+java:S1854
+"6Remove this useless assignment to local variable "b1".(ý¨ÔÛøÿÿÿÿ8©²çÉˆ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷Å‘Y8ç›íÉˆ/
