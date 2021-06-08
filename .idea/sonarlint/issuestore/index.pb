@@ -180,8 +180,6 @@ h
 8src/back_gi_sun_al_lecture/list/LinkedList_practice.java,9\1\91d688f0efbab8bf2fe8c236177b5a70f394e2d8
 Y
 )src/back_gi_sun_al_lecture/list/Node.java,8\6\86646f0d409b66e4321bc89683ef716999b3638e
-_
-/src/back_gi_sun_al_lecture/list/LinkedList.java,9\f\9f177398dbf974470f1fb282d6dc478216d74e79
 R
 "src/back_gi_sun_al_lecture/idea.md,6\8\684e5ba5a58bfa21ef68470ed8da5a8639352e58
 Y
@@ -196,11 +194,5 @@ b
 2src/inflearn_lecture/string_array/MeetingRoom.java,4\3\434f48b2933d93b579ec602a05290f13e43c3814
 ]
 -src/back_gi_sun_al_lecture/stack/Postfix.java,b\7\b76774ca1ea4dd7811d72453231904f1505f27a9
-C
-src/ScratchPad.java,d\a\dafa815cf7c6591dffd4c174627b97f427f52cf8
 d
 4src/inflearn_lecture/string_array/MissingRanges.java,2\a\2a8ddcaf3b993aae5f078e198f8a8a0430e9f191
-_
-/src/back_gi_sun_al_lecture/queue/QueueImpl.java,9\9\99dcd8eb36db03a4cb3403e673a2bde57d274126
-l
-<src/back_gi_sun_al_lecture/queue/QueueImplEngineerKorea.java,3\2\32a2645a74f6571ab0c0079f1a70edc9b4a6f5c0

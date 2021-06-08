@@ -1,11 +1,0 @@
-
-L
-java:S6212"/Declare this local variable with "var" instead.(­­Ú·8úëôµœ/
-Q
-java:S6212"/Declare this local variable with "var" instead.(¤Õªùÿÿÿÿ8üëôµœ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(àê‡ûÿÿÿÿ8û’…Œœ/
-r
-java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8•»†Œœ/
-Q
-java:S6212"/Declare this local variable with "var" instead.(Æøê“şÿÿÿÿ8‡ìôµœ/
-X	java:S125"<This block of commented-out lines of code should be removed.(İ ’ì8•»†Œœ/
