@@ -180,8 +180,6 @@ h
 8src/back_gi_sun_al_lecture/list/LinkedList_practice.java,9\1\91d688f0efbab8bf2fe8c236177b5a70f394e2d8
 Y
 )src/back_gi_sun_al_lecture/list/Node.java,8\6\86646f0d409b66e4321bc89683ef716999b3638e
-R
-"src/back_gi_sun_al_lecture/idea.md,6\8\684e5ba5a58bfa21ef68470ed8da5a8639352e58
 Y
 )src/back_gi_sun_al_lecture/list/문제.md,b\7\b7449a8b79960459e632111c9f8404e7b2744bf5
 i
@@ -196,3 +194,17 @@ b
 -src/back_gi_sun_al_lecture/stack/Postfix.java,b\7\b76774ca1ea4dd7811d72453231904f1505f27a9
 d
 4src/inflearn_lecture/string_array/MissingRanges.java,2\a\2a8ddcaf3b993aae5f078e198f8a8a0430e9f191
+[
++src/back_gi_sun_al_lecture/queue/Qprac.java,2\3\235c428985d08595179c05d36b3828f9ba0aa00e
+Z
+*src/back_gi_sun_al_lecture/queue/Main.java,a\1\a12e56d04d79142319139da2cb0727fdde9d53a5
+K
+src/backjoon/Factorial.java,3\a\3a00b1406c9d4d2f3d67d4c358c15dc2b837b7b5
+K
+src/backjoon/Fibonacci.java,f\7\f7415688962487e9d39207d213914c1b9c9c66ee
+Z
+*src/back_gi_sun_al_lecture/queue/문제.md,9\0\90e85338077db61c899ea092ce3be9ad919ea53d
+N
+src/backjoon/PrinterQueue.java,e\9\e9ce77c313ebecdfb9e7611232d551df7d59c40b
+g
+7src/back_gi_sun_al_lecture/array/FindOnlyOneNumber.java,9\d\9d2e934b59d9bd7bf63f92938488991cd15f16f5
