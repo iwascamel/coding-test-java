@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/684e5ba5a58bfa21ef68470ed8da5a8639352e58" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/the_coding_interview/chap1_string_and_array/Num3ChangeBlankToPercent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/the_coding_interview/chap1_string_and_array/Num4Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/the_coding_interview/chap1_string_and_array/Num5MinusOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,7 +59,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.StudyWord">
+  <component name="RunManager" selected="Application.Num4Palindrome">
     <configuration name="FindPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjoon.FindPrime" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="back_gi_sun_al_lecture.queue.LRU" />
+    <configuration name="Num3ChangeBlankToPercent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="the_coding_interview.chap1_string_and_array.Num3ChangeBlankToPercent" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="back_gi_sun_al_lecture.queue.*" />
+          <option name="PATTERN" value="the_coding_interview.chap1_string_and_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,9 +99,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScratchPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScratchPad" />
+    <configuration name="Num4Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="the_coding_interview.chap1_string_and_array.Num4Palindrome" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="the_coding_interview.chap1_string_and_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,13 +125,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num4Palindrome" />
+        <item itemvalue="Application.Num3ChangeBlankToPercent" />
         <item itemvalue="Application.StudyWord" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.FindPrime" />
-        <item itemvalue="Application.ScratchPad" />
-        <item itemvalue="Application.LRU" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +312,9 @@
       <workItem from="1623133992361" duration="8721000" />
       <workItem from="1623204800736" duration="600000" />
       <workItem from="1623306452162" duration="756000" />
+      <workItem from="1623315341873" duration="53000" />
+      <workItem from="1623392831259" duration="709000" />
+      <workItem from="1623827551649" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -525,14 +547,20 @@
       <option name="project" value="LOCAL" />
       <updated>1623140326025</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="21.06.10">
+      <created>1623315374878</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1623315374878</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20.03.10 SortPractice" />
     <MESSAGE value="20.03.11 SortPractice" />
     <MESSAGE value="20.03.13 SortPractice" />
     <MESSAGE value="20.10.13 algorithm commit" />
@@ -557,7 +585,8 @@
     <MESSAGE value="21.06.01" />
     <MESSAGE value="21.06.03" />
     <MESSAGE value="21.06.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.06.08" />
+    <MESSAGE value="21.06.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.06.10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

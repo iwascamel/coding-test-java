@@ -114,12 +114,8 @@ n
 >src/this_is_coding_test_book/data_structure/ArrayPractice.java,0\1\018deb828f769e086de2935dff93e83a67588069
 n
 >src/this_is_coding_test_book/data_structure/QueuePractice.java,e\d\ed493705857e62b94440a3f4ff1b4d3e0f2d8513
-c
-3src/back_gi_sun_al_lecture/array/ReverseString.java,b\0\b0e2c86ab96cb87217047be6411a3fa9c883ff1e
 _
 /src/back_gi_sun_al_lecture/array/SortArray.java,1\c\1c5d56c01292814e1825cc6b35a876a1c742476c
-\
-,src/back_gi_sun_al_lecture/array/TwoSum.java,2\f\2f144dbd8af4c1a480bab5e85584b28404dad378
 b
 2src/back_gi_sun_al_lecture/list/시간복잡도.md,3\c\3c98c101f12d6db53a78171e81ab32f3f5baa766
 m
@@ -206,5 +202,3 @@ Z
 *src/back_gi_sun_al_lecture/queue/문제.md,9\0\90e85338077db61c899ea092ce3be9ad919ea53d
 N
 src/backjoon/PrinterQueue.java,e\9\e9ce77c313ebecdfb9e7611232d551df7d59c40b
-g
-7src/back_gi_sun_al_lecture/array/FindOnlyOneNumber.java,9\d\9d2e934b59d9bd7bf63f92938488991cd15f16f5
