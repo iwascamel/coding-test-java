@@ -2,8 +2,12 @@
 
 public class ScratchPad {
     public static void main(String[] args) {
-        String s = "abcd";
-        System.out.println(s.substring(0,2));
+
+        int i = Integer.parseInt("3");
+        System.out.println(i);
+
+        Integer integer = Integer.valueOf("3");
+        System.out.println(integer);
     }
 }
 
