@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ssafy/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ssafy/basic/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210719/CheckPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210719/CircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210719/Compute.java" afterDir="false" />
+    <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="21.07.20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +311,7 @@
       <workItem from="1623827551649" duration="1956000" />
       <workItem from="1623831944688" duration="1305000" />
       <workItem from="1626652678500" duration="6214000" />
-      <workItem from="1626737549128" duration="8011000" />
+      <workItem from="1626737549128" duration="9379000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -564,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623829306326</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="21.07.20">
+      <created>1626770295054</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1626770295054</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +584,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20.03.13 SortPractice" />
     <MESSAGE value="20.10.13 algorithm commit" />
     <MESSAGE value="20.10.13 GreedyLawOfGreatNumbersPage92" />
     <MESSAGE value="20. 11.08 배민 우아한 테크" />
@@ -608,7 +608,8 @@
     <MESSAGE value="21.06.08" />
     <MESSAGE value="21.06.10" />
     <MESSAGE value="21.06.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.06.16" />
+    <MESSAGE value="21.07.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.07.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
