@@ -1,13 +1,19 @@
+class Member{
+    int a;
+
+    public int getA() {
+        return a;
+    }
+}
 
 
 public class ScratchPad {
     public static void main(String[] args) {
 
-        int i = Integer.parseInt("3");
-        System.out.println(i);
+        Member a = new Member();
 
-        Integer integer = Integer.valueOf("3");
-        System.out.println(integer);
+        int a1 = a.getA();
+
     }
 }
 

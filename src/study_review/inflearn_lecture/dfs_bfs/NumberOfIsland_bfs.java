@@ -26,7 +26,6 @@ public class NumberOfIsland_bfs {
                 if (grid[i][j] == 1) {
                     count++;
                     bfs(grid, i, j);
-
                     System.out.println("i = " + i);
                     System.out.println("j = " + j);
                     print(grid);

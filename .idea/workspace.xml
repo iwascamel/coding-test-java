@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="21.07.20">
-      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210720/DigitTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ssafy/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssafy/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,27 +54,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.ScratchPad">
     <configuration name="CheckPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ssafy.hw_210719.CheckPoint" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ssafy.hw_210719.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Compute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210719.Compute" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
@@ -127,26 +112,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="ScratchPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScratchPad" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScratchPad" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.DigitTest1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CheckPoint" />
-        <item itemvalue="Application.Compute" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +312,9 @@
       <workItem from="1623831944688" duration="1305000" />
       <workItem from="1626652678500" duration="6214000" />
       <workItem from="1626737549128" duration="10319000" />
+      <workItem from="1626801827703" duration="185000" />
+      <workItem from="1626802416116" duration="714000" />
+      <workItem from="1626824765075" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
