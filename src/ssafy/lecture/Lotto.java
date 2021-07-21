@@ -1,4 +1,4 @@
-package ssafy.basic;
+package ssafy.lecture;
 
 public class Lotto {
     int[] lots;

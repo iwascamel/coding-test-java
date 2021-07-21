@@ -1,19 +1,10 @@
-class Member{
-    int a;
-
-    public int getA() {
-        return a;
-    }
-}
-
+import java.util.Scanner;
 
 public class ScratchPad {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        Member a = new Member();
-
-        int a1 = a.getA();
-
+        System.out.println(sc.next());
     }
 }
 

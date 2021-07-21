@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="21.07.20">
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210721/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210721/Hw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/lecture/lec_210720/Building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ScratchPad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ScratchPad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_review/inflearn_lecture/dfs_bfs/NumberOfIsland_bfs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ssafy/basic/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssafy/lecture/Lotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +64,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.ScratchPad">
-    <configuration name="CheckPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210719.CheckPoint" />
+  <component name="RunManager" selected="Application.Frog">
+    <configuration name="DigitTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210720.DigitTest1" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.hw_210719.*" />
+          <option name="PATTERN" value="ssafy.hw_210720.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210720.DigitTest1" />
+    <configuration name="Frog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210721.Frog" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.hw_210720.*" />
+          <option name="PATTERN" value="ssafy.hw_210721.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,24 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Frog" />
         <item itemvalue="Application.ScratchPad" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.DigitTest1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CheckPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +321,8 @@
       <workItem from="1626737549128" duration="10319000" />
       <workItem from="1626801827703" duration="185000" />
       <workItem from="1626802416116" duration="714000" />
-      <workItem from="1626824765075" duration="2029000" />
+      <workItem from="1626824765075" duration="2197000" />
+      <workItem from="1626828365384" duration="7910000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -575,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626771400910</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="21.07.20">
+      <created>1626827059574</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1626827059574</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
