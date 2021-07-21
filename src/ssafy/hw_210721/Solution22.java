@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Frog {
+public class Solution22 {
 
     static int T;
     static int N,S;

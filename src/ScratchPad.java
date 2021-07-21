@@ -1,10 +1,11 @@
-import java.util.Scanner;
+import java.io.IOException;
 
 public class ScratchPad {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        String s = "abcd";
+        String s2 = s;
 
-        System.out.println(sc.next());
+        System.out.println();
     }
 }
 
