@@ -3,6 +3,27 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+3
+6
+G B G G B B
+G B G G B G
+B B B B G B
+B G B B B B
+G B B B B G
+G B B B B G
+5
+G B G G B
+G B G G B
+B B B B G
+B G B B B
+G B B B B
+3
+G G B
+G B B
+B B B
+ */
+
 public class Building{
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -12,6 +33,7 @@ public class Building{
         int loopCount =Integer.parseInt(n);
 
         for (int i=0;i<loopCount;i++){
+            int result = 2;
             int arrSize = Integer.parseInt(br.readLine());
             char[][] arr = new char[arrSize][arrSize];
 
@@ -24,8 +46,23 @@ public class Building{
             // 루프 돌면서 G에 대한 확인. 만약 팔방면에 G가 없다면, 세로 쭉, 가로 쭉 해서 B의 갯수 세기.
             // 아닐 경우 2 반환
             for(int k=0;k<arrSize;k++){
+                for (int j=0;j<arrSize;j++){
+                    if (arr[k][j] == 'B' && search(arr,k,j)){
 
+                        System.out.println("B이고, 근처에 B가 없을 때의 i =  " + i +" j = " + j);
+
+                        int temp1 = 0;
+                        for(int i1=0;i1<arrSize;i1++){
+                            if(arr[k][i1]=='B') temp1+=1;
+                        }
+                        for(int i1=0;i1<arrSize;i1++){
+                            if(arr[i1][j]=='B') temp1+=1;
+                        }
+                        result = Math.max(result,temp1);
+                    }
+                }
             }
+            System.out.println(result);
         }
     }
 

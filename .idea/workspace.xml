@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6a3d82-e0bd-4b6e-852c-f3f225b2b707" name="Default Changelist" comment="21.07.21">
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/InstanceOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/hw/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/hw/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/hw/Refrigerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210722/hw/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/PrintStarNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/SnailLecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/SnailSWExpert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/SumX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/TransferArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/step/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/step/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/step/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/step/IBookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ssafy/hw_210723/step/Magazine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ScratchPad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ScratchPad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/basic/Lotto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScratchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScratchPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ssafy/hw_210721/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssafy/hw_210721/Solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Preparation_For_Coding_Test/ssafy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ssafy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssafy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ssafy/lecture/lec_210720/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ssafy/lecture/lec_210720/Building.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +77,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.ScratchPad">
-    <configuration name="DigitTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210720.DigitTest1" />
+  <component name="RunManager" selected="Application.BookTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210723.step.BookTest" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.hw_210720.*" />
+          <option name="PATTERN" value="ssafy.hw_210723.step.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.Main" />
+    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.lecture.lec_210720.Building" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.*" />
+          <option name="PATTERN" value="ssafy.lecture.lec_210720.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.Main2" />
+    <configuration name="SnailLecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210723.SnailLecture" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.*" />
+          <option name="PATTERN" value="ssafy.hw_210723.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,19 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScratchPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScratchPad" />
-      <module name="Algorithm_Preparation_For_Coding_Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210721.Solution22" />
+    <configuration name="SnailSWExpert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210723.SnailSWExpert" />
       <module name="Algorithm_Preparation_For_Coding_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ssafy.hw_210721.*" />
+          <option name="PATTERN" value="ssafy.hw_210723.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,26 +130,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="SumX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssafy.hw_210723.SumX" />
+      <module name="Algorithm_Preparation_For_Coding_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssafy.hw_210723.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScratchPad" />
-        <item itemvalue="Application.Solution22" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.DigitTest1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.SnailLecture" />
+        <item itemvalue="Application.SnailSWExpert" />
+        <item itemvalue="Application.Building" />
+        <item itemvalue="Application.SumX" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +339,8 @@
       <workItem from="1626801827703" duration="185000" />
       <workItem from="1626802416116" duration="714000" />
       <workItem from="1626824765075" duration="2197000" />
-      <workItem from="1626828365384" duration="10653000" />
+      <workItem from="1626828365384" duration="24860000" />
+      <workItem from="1626998170380" duration="18171000" />
     </task>
     <task id="LOCAL-00001" summary="20.03.06 BinarySeach Study">
       <created>1583422325908</created>
@@ -594,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626854328447</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="21.07.21">
+      <created>1626857817361</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1626857817361</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
